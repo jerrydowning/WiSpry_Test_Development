@@ -1,0 +1,17 @@
+Date: 10/17/2014
+WS_VCAP Driver 026:
+1. I2C Socket 22, Bank C3 is not working
+
+Date: 10/21/2014
+WS_VCAP Driver 027, Fixed item 1 from 026
+1. Readback only 16 DUT, not 36 DUT
+
+Date: 10/22/2014
+WS_VCAP Driver 028, Fixed item 1 from 027
+1. Read back ok from 1 to 17, not correct from 18 to 36
+
+Date: 10/22/2014
+WS_VCAP Driver 029, Fixed item 1 from 027
+
+
+Use WS_VCAP Driver 029 as the latest version for FPGA

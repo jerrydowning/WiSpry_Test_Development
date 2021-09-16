@@ -1,0 +1,204 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\ws1050_36dut_reliability_reve.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "I:\Andy\Schematics\WS1050\36 DUT Board\WS1050_36DUT_Reliability_REVE.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t\t\t{Value}\t\t\t{ID}\t\t\t{Part #}\t\t\t\t{PCB Footprint}")
+    (BOM_Header
+       "Item\tQuantity\tReference\t\t\t\tValue\t\t\tID\t\t\t\t\t\tPart #\t\t\t\t\t\tPCB Footprint")
+    (BOM_Include_File
+       "G:\ANDY\SCHEMATICS\WS1033\BENCH\20 SOCKETS HD & CYCLING\WS1033_16SOCKETS_HD CYCLING_REVC.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "TRUE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "TRUE")
+    (DRC_Visible_Power_pins "TRUE")
+    (DRC_Report_Netnames "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_Report_File
+       "I:\Andy\Schematics\WS1050\36 DUT Board\WS1050_36DUT_RELIABILITY_REVE.DRC")
+    (Netlist_TAB "8")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File "WS1050_36DUT_RELIABILITY_REVC.asc")
+    (OTHER_Netlist_File2 "WS1050_36DUT_RELIABILITY_REVC.CMP")
+    (OTHER_View_Output "TRUE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "pads2k.dll")
+    (OTHER_PCB_Footprint "{PCB Footprint}")
+    (OTHER_Switch0 "FALSE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE"))
+  (Folder "Outputs"
+    (File ".\ws1033_16sockets_hd cycling_revc.bom"
+      (Type "Report"))
+    (File ".\ws1033_16sockets_hd cycling_revc.drc"
+      (Type "Report"))
+    (File ".\ws1033_16sockets_hd cycling_revd.bom"
+      (Type "Report"))
+    (File ".\ws1033_16sockets_hd cycling_revd.drc"
+      (Type "Report"))
+    (File ".\ws1050_16dut_reliability_reva.bom"
+      (Type "Report"))
+    (File ".\ws1050_16dut_reliability_revc.bom"
+      (Type "Report"))
+    (File ".\ws1050_16dut_reliability_revc.drc"
+      (Type "Report"))
+    (File ".\ws1050_16dut_reliability_revd.bom"
+      (Type "Report"))
+    (File ".\ws1050_16dut_reliability_reve.drc"
+      (Type "Report"))
+    (File ".\ws1050_16dut_reliability_reve.bom"
+      (Type "Report"))
+    (File ".\ws1050_16dut_reliability_revf.drc"
+      (Type "Report"))
+    (File ".\ws1050_36dut_reliability_revc.bom"
+      (Type "Report"))
+    (File ".\ws1050_36dut_reliability_revc.drc"
+      (Type "Report"))
+    (File ".\ws1050_36dut_reliability_revc.asc"
+      (Type "Report"))
+    (File ".\ws1050_36dut_reliability_reve.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (MM74HC244MTC
+      (FullPartName "MM74HC244MTC.Normal")
+      (LibraryName "I:\ANDY\SCHEMATICS\LIBRARY\ANDY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (78PIN_DSUB
+      (FullPartName "78PIN_DSUB.Normal")
+      (LibraryName "I:\ANDY\SCHEMATICS\LIBRARY\ORCAD_PARTLIB.OLB")
+      (DeviceIndex "0"))
+    ("5 X 2 CONN"
+      (FullPartName "5 X 2 CONN.Normal")
+      (LibraryName "I:\ANDY\SCHEMATICS\LIBRARY\ANDY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (74HC125
+      (FullPartName "74HC125.Normal")
+      (LibraryName "G:\ANDY\SCHEMATICS\LIBRARY\ANDY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5X2"
+      (FullPartName "HEADER 5X2.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (HDR_2X5
+      (FullPartName "HDR_2X5.Normal")
+      (LibraryName "I:\ANDY\SCHEMATICS\LIBRARY\ORCAD_PARTLIB.OLB")
+      (DeviceIndex "0"))
+    ("TEST POINT"
+      (FullPartName "TEST POINT.Normal")
+      (LibraryName "I:\ANDY\SCHEMATICS\LIBRARY\ORCAD_PARTLIB.OLB")
+      (DeviceIndex "0"))
+    ("WS1050 MUF_1"
+      (FullPartName "WS1050 MUF_1.Normal")
+      (LibraryName
+         "I:\ANDY\SCHEMATICS\WS1050\16 DUT BOARD\WS1050_16DUT_RELIABILITY_REVA.DSN")
+      (DeviceIndex "0"))
+    ("WS1050 MUF"
+      (FullPartName "WS1050 MUF.Normal")
+      (LibraryName "I:\ANDY\SCHEMATICS\LIBRARY\ANDY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (74HC154
+      (FullPartName "74HC154.Normal")
+      (LibraryName "I:\ANDY\SCHEMATICS\LIBRARY\ANDY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (NTS0104_TSSOP14
+      (FullPartName "NTS0104_TSSOP14.Normal")
+      (LibraryName "I:\ANDY\SCHEMATICS\LIBRARY\ANDY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (WS1050_New
+      (FullPartName "WS1050_New.Normal")
+      (LibraryName "I:\ANDY\SCHEMATICS\LIBRARY\ANDY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (Diode
+      (FullPartName "Diode.Normal")
+      (LibraryName "G:\ANDY\SCHEMATICS\LIBRARY\ORCAD_PARTLIB.OLB")
+      (DeviceIndex "0"))
+    (BAT54/SOT
+      (FullPartName "BAT54/SOT.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (1N5463B
+      (FullPartName "1N5463B.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\ws1050_36dut_reliability_reve.dsn")
+      (Path "Design Resources" ".\ws1050_36dut_reliability_reve.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\ws1050_36dut_reliability_reve.dsn"
+         "SCHEMATIC1" "DUT 19 to 27"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 1 201 3 490"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1351 25 526")
+        (Scroll "2691 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\ANDY TR\WISPRY LABVIEW TEST PROGRAM\BENCH TEST LEVEL\WS1050 RFFE BENCH\36 DUT BOARD\HARDWARE\WS1050_36DUT_RELIABILITY_REVE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "DUT 1 to 9"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1376 50 551")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\ANDY TR\WISPRY LABVIEW TEST PROGRAM\BENCH TEST LEVEL\WS1050 RFFE BENCH\36 DUT BOARD\HARDWARE\WS1050_36DUT_RELIABILITY_REVE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "REV Changing")))
+  (MPSSessionName "andy.tran")
+  (LastUsedLibraryBrowseDirectory "I:\Andy\Schematics\Library")
+  (ISPCBBASICLICENSE "false"))

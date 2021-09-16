@@ -1,0 +1,9 @@
+[169.254.125.17]
+169.254.125.17 = "169.254.125.17"
+
+[My Computer]
+My Computer = "192.168.17.144"
+
+[RT Single-Board RIO]
+RT Single-Board RIO = "0.0.0.0"
+

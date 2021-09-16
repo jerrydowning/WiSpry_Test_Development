@@ -1,0 +1,6 @@
+VNA Port Extension Setup for EVB 1050
+
+1.  Press CAL Button
+2.  More
+3.  Extension ON
+4.  Set extension Port1 and Port2 for 82.19ps.

@@ -1,0 +1,3 @@
+Tektronix DPO MSO 2000 4000 Series.lvlib
+	C:\Program Files (x86)\National Instruments\LabVIEW 2012\instr.lib\Tektronix DPO MSO 2000 4000 Series\Tektronix DPO MSO 2000 4000 Series.lvlib
+	C:\Program Files (x86)\National Instruments\LabVIEW 2012\Tektronix DPO MSO 2000 4000 Series.lvlib

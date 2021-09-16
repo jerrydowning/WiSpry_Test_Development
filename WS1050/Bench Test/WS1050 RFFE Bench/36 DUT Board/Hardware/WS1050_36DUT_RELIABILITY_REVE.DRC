@@ -1,0 +1,2504 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S1
+                    SCHEMATIC1, DUT 1 to 9  (2.20, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S7
+                    SCHEMATIC1, DUT 1 to 9  (6.20, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S2
+                    SCHEMATIC1, DUT 1 to 9  (19.80, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S5
+                    SCHEMATIC1, DUT 1 to 9  (19.80, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S5
+                    SCHEMATIC1, DUT 1 to 9  (15.80, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S6
+                    SCHEMATIC1, DUT 1 to 9  (33.40, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S6
+                    SCHEMATIC1, DUT 1 to 9  (29.40, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S2
+                    SCHEMATIC1, DUT 1 to 9  (15.80, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S3
+                    SCHEMATIC1, DUT 1 to 9  (33.70, 4.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S9
+                    SCHEMATIC1, DUT 1 to 9  (29.40, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S2
+                    SCHEMATIC1, DUT 1 to 9  (15.80, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S5
+                    SCHEMATIC1, DUT 1 to 9  (15.80, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S4
+                    SCHEMATIC1, DUT 1 to 9  (6.50, 14.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S2
+                    SCHEMATIC1, DUT 1 to 9  (15.80, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S8
+                    SCHEMATIC1, DUT 1 to 9  (15.80, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S3
+                    SCHEMATIC1, DUT 1 to 9  (29.40, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S1
+                    SCHEMATIC1, DUT 1 to 9  (6.60, 4.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S9
+                    SCHEMATIC1, DUT 1 to 9  (33.40, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S3
+                    SCHEMATIC1, DUT 1 to 9  (29.40, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S7
+                    SCHEMATIC1, DUT 1 to 9  (2.20, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S7
+                    SCHEMATIC1, DUT 1 to 9  (2.20, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S3
+                    SCHEMATIC1, DUT 1 to 9  (29.40, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S5
+                    SCHEMATIC1, DUT 1 to 9  (15.80, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S6
+                    SCHEMATIC1, DUT 1 to 9  (29.40, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S4
+                    SCHEMATIC1, DUT 1 to 9  (2.20, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S8
+                    SCHEMATIC1, DUT 1 to 9  (15.80, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S4
+                    SCHEMATIC1, DUT 1 to 9  (2.20, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S8
+                    SCHEMATIC1, DUT 1 to 9  (20.10, 23.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S8
+                    SCHEMATIC1, DUT 1 to 9  (15.80, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S7
+                    SCHEMATIC1, DUT 1 to 9  (2.20, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S9
+                    SCHEMATIC1, DUT 1 to 9  (29.40, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S6
+                    SCHEMATIC1, DUT 1 to 9  (29.40, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S9
+                    SCHEMATIC1, DUT 1 to 9  (29.40, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S4
+                    SCHEMATIC1, DUT 1 to 9  (2.20, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S1
+                    SCHEMATIC1, DUT 1 to 9  (2.20, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S1
+                    SCHEMATIC1, DUT 1 to 9  (2.20, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S17
+                    SCHEMATIC1, DUT 10 to 18  (20.10, 23.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S16
+                    SCHEMATIC1, DUT 10 to 18  (2.20, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S10
+                    SCHEMATIC1, DUT 10 to 18  (2.20, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S11
+                    SCHEMATIC1, DUT 10 to 18  (20.10, 4.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S16
+                    SCHEMATIC1, DUT 10 to 18  (2.20, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S16
+                    SCHEMATIC1, DUT 10 to 18  (6.20, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S13
+                    SCHEMATIC1, DUT 10 to 18  (2.20, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S18
+                    SCHEMATIC1, DUT 10 to 18  (29.40, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S15
+                    SCHEMATIC1, DUT 10 to 18  (29.40, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S14
+                    SCHEMATIC1, DUT 10 to 18  (15.80, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S10
+                    SCHEMATIC1, DUT 10 to 18  (2.20, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S10
+                    SCHEMATIC1, DUT 10 to 18  (2.20, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S17
+                    SCHEMATIC1, DUT 10 to 18  (15.80, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S18
+                    SCHEMATIC1, DUT 10 to 18  (33.40, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S12
+                    SCHEMATIC1, DUT 10 to 18  (33.40, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S15
+                    SCHEMATIC1, DUT 10 to 18  (33.70, 14.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S13
+                    SCHEMATIC1, DUT 10 to 18  (2.20, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S11
+                    SCHEMATIC1, DUT 10 to 18  (15.80, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S18
+                    SCHEMATIC1, DUT 10 to 18  (29.40, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S15
+                    SCHEMATIC1, DUT 10 to 18  (29.40, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S16
+                    SCHEMATIC1, DUT 10 to 18  (2.20, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S14
+                    SCHEMATIC1, DUT 10 to 18  (15.80, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S17
+                    SCHEMATIC1, DUT 10 to 18  (15.80, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S13
+                    SCHEMATIC1, DUT 10 to 18  (6.20, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S11
+                    SCHEMATIC1, DUT 10 to 18  (15.80, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S14
+                    SCHEMATIC1, DUT 10 to 18  (19.80, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S10
+                    SCHEMATIC1, DUT 10 to 18  (6.20, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S18
+                    SCHEMATIC1, DUT 10 to 18  (29.40, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S15
+                    SCHEMATIC1, DUT 10 to 18  (29.40, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S12
+                    SCHEMATIC1, DUT 10 to 18  (29.40, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S12
+                    SCHEMATIC1, DUT 10 to 18  (29.40, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S13
+                    SCHEMATIC1, DUT 10 to 18  (2.20, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S11
+                    SCHEMATIC1, DUT 10 to 18  (15.80, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S17
+                    SCHEMATIC1, DUT 10 to 18  (15.80, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S14
+                    SCHEMATIC1, DUT 10 to 18  (15.80, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S12
+                    SCHEMATIC1, DUT 10 to 18  (29.40, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S27
+                    SCHEMATIC1, DUT 19 to 27  (30.00, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S24
+                    SCHEMATIC1, DUT 19 to 27  (30.00, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S21
+                    SCHEMATIC1, DUT 19 to 27  (34.30, 4.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S26
+                    SCHEMATIC1, DUT 19 to 27  (20.10, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S26
+                    SCHEMATIC1, DUT 19 to 27  (16.10, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S19
+                    SCHEMATIC1, DUT 19 to 27  (2.20, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S24
+                    SCHEMATIC1, DUT 19 to 27  (34.00, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S26
+                    SCHEMATIC1, DUT 19 to 27  (16.10, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S27
+                    SCHEMATIC1, DUT 19 to 27  (34.00, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S22
+                    SCHEMATIC1, DUT 19 to 27  (2.20, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S24
+                    SCHEMATIC1, DUT 19 to 27  (30.00, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S25
+                    SCHEMATIC1, DUT 19 to 27  (2.20, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S20
+                    SCHEMATIC1, DUT 19 to 27  (16.10, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S22
+                    SCHEMATIC1, DUT 19 to 27  (2.20, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S22
+                    SCHEMATIC1, DUT 19 to 27  (6.50, 14.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S27
+                    SCHEMATIC1, DUT 19 to 27  (30.00, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S23
+                    SCHEMATIC1, DUT 19 to 27  (20.10, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S21
+                    SCHEMATIC1, DUT 19 to 27  (30.00, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S26
+                    SCHEMATIC1, DUT 19 to 27  (16.10, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S22
+                    SCHEMATIC1, DUT 19 to 27  (2.20, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S19
+                    SCHEMATIC1, DUT 19 to 27  (6.20, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S20
+                    SCHEMATIC1, DUT 19 to 27  (20.10, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S27
+                    SCHEMATIC1, DUT 19 to 27  (30.00, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S19
+                    SCHEMATIC1, DUT 19 to 27  (2.20, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S25
+                    SCHEMATIC1, DUT 19 to 27  (6.20, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S25
+                    SCHEMATIC1, DUT 19 to 27  (2.20, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S23
+                    SCHEMATIC1, DUT 19 to 27  (16.10, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S21
+                    SCHEMATIC1, DUT 19 to 27  (30.00, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S23
+                    SCHEMATIC1, DUT 19 to 27  (16.10, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S19
+                    SCHEMATIC1, DUT 19 to 27  (2.20, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S25
+                    SCHEMATIC1, DUT 19 to 27  (2.20, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S23
+                    SCHEMATIC1, DUT 19 to 27  (16.10, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S21
+                    SCHEMATIC1, DUT 19 to 27  (30.00, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S20
+                    SCHEMATIC1, DUT 19 to 27  (16.10, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S24
+                    SCHEMATIC1, DUT 19 to 27  (30.00, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S20
+                    SCHEMATIC1, DUT 19 to 27  (16.10, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S28
+                    SCHEMATIC1, DUT 28 to 36  (6.30, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S34
+                    SCHEMATIC1, DUT 28 to 36  (2.30, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S30
+                    SCHEMATIC1, DUT 28 to 36  (34.40, 4.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S34
+                    SCHEMATIC1, DUT 28 to 36  (6.60, 23.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S33
+                    SCHEMATIC1, DUT 28 to 36  (34.10, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S32
+                    SCHEMATIC1, DUT 28 to 36  (20.20, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S35
+                    SCHEMATIC1, DUT 28 to 36  (16.20, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S34
+                    SCHEMATIC1, DUT 28 to 36  (2.30, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S31
+                    SCHEMATIC1, DUT 28 to 36  (6.60, 14.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S32
+                    SCHEMATIC1, DUT 28 to 36  (16.20, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S36
+                    SCHEMATIC1, DUT 28 to 36  (30.10, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S31
+                    SCHEMATIC1, DUT 28 to 36  (2.30, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S36
+                    SCHEMATIC1, DUT 28 to 36  (30.10, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S36
+                    SCHEMATIC1, DUT 28 to 36  (34.40, 23.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S35
+                    SCHEMATIC1, DUT 28 to 36  (16.20, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S33
+                    SCHEMATIC1, DUT 28 to 36  (30.10, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S35
+                    SCHEMATIC1, DUT 28 to 36  (20.20, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S32
+                    SCHEMATIC1, DUT 28 to 36  (16.20, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S28
+                    SCHEMATIC1, DUT 28 to 36  (2.30, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S36
+                    SCHEMATIC1, DUT 28 to 36  (30.10, 27.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S33
+                    SCHEMATIC1, DUT 28 to 36  (30.10, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S30
+                    SCHEMATIC1, DUT 28 to 36  (30.10, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S30
+                    SCHEMATIC1, DUT 28 to 36  (30.10, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S31
+                    SCHEMATIC1, DUT 28 to 36  (2.30, 11.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S33
+                    SCHEMATIC1, DUT 28 to 36  (30.10, 14.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S31
+                    SCHEMATIC1, DUT 28 to 36  (2.30, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S28
+                    SCHEMATIC1, DUT 28 to 36  (2.30, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S35
+                    SCHEMATIC1, DUT 28 to 36  (16.20, 21.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_1_S29
+                    SCHEMATIC1, DUT 28 to 36  (16.20, 1.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections VDD_S29
+                    SCHEMATIC1, DUT 28 to 36  (20.20, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S28
+                    SCHEMATIC1, DUT 28 to 36  (2.30, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S32
+                    SCHEMATIC1, DUT 28 to 36  (16.20, 17.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S30
+                    SCHEMATIC1, DUT 28 to 36  (30.10, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S34
+                    SCHEMATIC1, DUT 28 to 36  (2.30, 24.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_3_S29
+                    SCHEMATIC1, DUT 28 to 36  (16.20, 7.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections Shield_2_S29
+                    SCHEMATIC1, DUT 28 to 36  (16.20, 4.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections GND_POWER
+                    SCHEMATIC1, PWR & IN CON  (19.00, 4.30) 
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Ports
+
+Reporting Off-Page Connections
+    VDD_S36
+    LS_SDA_S35
+    S35
+    LS_SCL_S29
+    VDD_S25
+    LS_SDA_S24
+    S24
+    LS_SCL_S18
+    VDD_S14
+    LS_SDA_S13
+    S13
+    I2C_SCL_S19
+    DATO_S34
+    I2C_SDA_C1_S33
+    I2C_SDA_C2_S32
+    I2C_SDA_C3_S31
+    DATO_S23
+    I2C_SDA_C1_S22
+    I2C_SDA_C2_S21
+    I2C_SDA_C3_S20
+    I2C_SDA_C2_S10
+    DATO_S12
+    I2C_SDA_C1_S11
+    I2C_SCL_S1-9
+    C3_S9
+    VDD_S9
+    C2_S8
+    C1_S7
+    I2C_SDA_C3_S6
+    I2C_SDA_C2_S5
+    I2C_SDA_C1_S4
+    DATO_S4
+    S1
+    LS_SDA_S1
+    LS_SDA_S36
+    S36
+    C1_S30
+    VDD_S26
+    LS_SDA_S25
+    S25
+    LS_SCL_S19
+    VDD_S15
+    LS_SDA_S14
+    S14
+    DATO_S35
+    I2C_SDA_C1_S34
+    I2C_SDA_C2_S33
+    I2C_SDA_C3_S32
+    DATO_S24
+    I2C_SDA_C1_S23
+    I2C_SDA_C2_S22
+    I2C_SDA_C3_S21
+    I2C_SDA_C3_S10
+    DATO_S13
+    I2C_SDA_C1_S12
+    I2C_SDA_C2_S11
+    C2_S9
+    C1_S8
+    I2C_SDA_C3_S7
+    I2C_SDA_C2_S6
+    DATO_S5
+    I2C_SDA_C1_S5
+    S2
+    LS_SDA_S2
+    VDD
+    C1_S31
+    C2_S30
+    VDD_S27
+    LS_SDA_S26
+    S26
+    C1_S20
+    VDD_S16
+    LS_SDA_S15
+    S15
+    Buf_EN
+    DATO_S36
+    I2C_SDA_C1_S35
+    I2C_SDA_C2_S34
+    I2C_SDA_C3_S33
+    DATO_S25
+    I2C_SDA_C1_S24
+    I2C_SDA_C2_S23
+    I2C_SDA_C3_S22
+    DATO_S14
+    I2C_SDA_C1_S13
+    I2C_SDA_C2_S12
+    I2C_SDA_C3_S11
+    C1_S9
+    I2C_SDA_C3_S8
+    I2C_SDA_C2_S7
+    DATO_S6
+    I2C_SDA_C1_S6
+    S3
+    LS_SDA_S3
+    V_1.8V
+    C1_S32
+    C2_S31
+    C3_S30
+    VDD_S28
+    LS_SDA_S27
+    S27
+    C1_S21
+    C2_S20
+    VDD_S17
+    LS_SDA_S16
+    S16
+    C1_S10
+    I2C_SDA_C1_S36
+    I2C_SDA_C2_S35
+    I2C_SDA_C3_S34
+    DATO_S26
+    I2C_SDA_C1_S25
+    I2C_SDA_C2_S24
+    I2C_SDA_C3_S23
+    DATO_S15
+    I2C_SDA_C1_S14
+    I2C_SDA_C2_S13
+    I2C_SDA_C3_S12
+    I2C_SCL_S10-18
+    I2C_SDA_C3_S9
+    I2C_SDA_C2_S8
+    DATO_S7
+    I2C_SDA_C1_S7
+    S4
+    LS_SDA_S4
+    C1_S33
+    C2_S32
+    C3_S31
+    VDD_S29
+    LS_SDA_S28
+    S28
+    C1_S22
+    C2_S21
+    C3_S20
+    VDD_S18
+    LS_SDA_S17
+    S17
+    C1_S11
+    C2_S10
+    I2C_SDA_C2_S36
+    I2C_SDA_C3_S35
+    DATO_S27
+    I2C_SDA_C1_S26
+    I2C_SDA_C2_S25
+    I2C_SDA_C3_S24
+    DATO_S16
+    I2C_SDA_C1_S15
+    I2C_SDA_C2_S14
+    I2C_SDA_C3_S13
+    I2C_SDA_C2_S9
+    DATO_S8
+    I2C_SDA_C1_S8
+    LS_SDA_S5
+    S5
+    I2C_SCL_S1
+    C1_S34
+    C2_S33
+    C3_S32
+    LS_SDA_S29
+    S29
+    C1_S23
+    C2_S22
+    C3_S21
+    VDD_S19
+    LS_SDA_S18
+    S18
+    C1_S12
+    C2_S11
+    C3_S10
+    DATO_S28
+    I2C_SDA_C3_S36
+    I2C_SDA_C1_S27
+    I2C_SDA_C2_S26
+    I2C_SDA_C3_S25
+    DATO_S17
+    I2C_SDA_C1_S16
+    I2C_SDA_C2_S15
+    I2C_SDA_C3_S14
+    DATO_S9
+    I2C_SDA_C1_S9
+    LS_SDA_S6
+    S6
+    I2C_SCL_S2
+    LS_SCL_S1
+    VDD_IO_REG
+    +3.3V
+    C1_S35
+    C2_S34
+    C3_S33
+    C1_S24
+    C2_S23
+    C3_S22
+    LS_SDA_S19
+    S19
+    C1_S13
+    C2_S12
+    C3_S11
+    I2C_SCL_S30
+    DATO_S29
+    I2C_SDA_C1_S28
+    I2C_SDA_C2_S27
+    I2C_SDA_C3_S26
+    DATO_S18
+    I2C_SDA_C1_S17
+    I2C_SDA_C2_S16
+    I2C_SDA_C3_S15
+    LS_SDA_S7
+    S7
+    I2C_SCL_S3
+    LS_SCL_S2
+    RFFE_SDA_S1-9
+    C1_VSA
+    C1_S36
+    C2_S35
+    C3_S34
+    LS_SCL_S30
+    C1_S25
+    C2_S24
+    C3_S23
+    C1_S14
+    C2_S13
+    C3_S12
+    I2C_SCL_S31
+    I2C_SCL_S20
+    I2C_SDA_C1_S29
+    I2C_SDA_C2_S28
+    DATO_S19
+    I2C_SDA_C3_S27
+    I2C_SDA_C1_S18
+    I2C_SDA_C2_S17
+    I2C_SDA_C3_S16
+    LS_SDA_S8
+    S8
+    I2C_SCL_S4
+    LS_SCL_S3
+    C2_VSA
+    C2_S36
+    C3_S35
+    LS_SCL_S31
+    C1_S26
+    C2_S25
+    C3_S24
+    LS_SCL_S20
+    C1_S15
+    C2_S14
+    C3_S13
+    I2C_SCL_S32
+    I2C_SCL_S21
+    I2C_SCL_S10
+    I2C_SDA_C2_S29
+    I2C_SDA_C3_S28
+    I2C_SDA_C1_S19
+    I2C_SDA_C2_S18
+    I2C_SDA_C3_S17
+    RFFE_SDA_S10-18
+    +5V
+    LS_SDA_S9
+    S9
+    I2C_SCL_S5
+    LS_SCL_S4
+    C3_VSA
+    C3_S36
+    LS_SCL_S32
+    C1_S27
+    C2_S26
+    C3_S25
+    LS_SCL_S21
+    C1_S16
+    C2_S15
+    C3_S14
+    LS_SCL_S10
+    I2C_SCL_S33
+    I2C_SCL_S22
+    I2C_SCL_S11
+    I2C_SDA_C3_S29
+    I2C_SCL_S28-36
+    I2C_SCL_S19-27
+    I2C_SDA_C2_S19
+    I2C_SDA_C3_S18
+    I2C_SCL_S6
+    LS_SCL_S5
+    VDD_S1
+    C3_S1
+    LS_SCL_S33
+    C1_S28
+    C2_S27
+    C3_S26
+    LS_SCL_S22
+    C1_S17
+    C2_S16
+    C3_S15
+    LS_SCL_S11
+    I2C_SCL_S34
+    I2C_SCL_S23
+    I2C_SCL_S12
+    I2C_SDA_C3_S19
+    RFFE_SCL_S10-18
+    I2C_SCL_S7
+    LS_SCL_S6
+    VDD_S2
+    C3_S2
+    C2_S1
+    LS_SCL_S34
+    VDD_S30
+    C1_S29
+    C2_S28
+    C3_S27
+    LS_SCL_S23
+    C1_S18
+    C2_S17
+    C3_S16
+    LS_SCL_S12
+    I2C_SCL_S35
+    I2C_SCL_S24
+    I2C_SCL_S13
+    I2C_SCL_S8
+    LS_SCL_S7
+    VDD_S3
+    C3_S3
+    C2_S2
+    RFFE_SCL_S1-9
+    C1_S1
+    LS_SCL_S35
+    VDD_S31
+    LS_SDA_S30
+    S30
+    C2_S29
+    C3_S28
+    LS_SCL_S24
+    VDD_S20
+    C1_S19
+    C2_S18
+    C3_S17
+    LS_SCL_S13
+    I2C_SCL_S36
+    I2C_SCL_S25
+    I2C_SCL_S14
+    I2C_SCL_S9
+    LS_SCL_S8
+    VDD_S4
+    C3_S4
+    C2_S3
+    C1_S2
+    I2C_SDA_C3_S1
+    LS_SCL_S36
+    VDD_S32
+    LS_SDA_S31
+    S31
+    C3_S29
+    LS_SCL_S25
+    VDD_S21
+    LS_SDA_S20
+    S20
+    C2_S19
+    C3_S18
+    LS_SCL_S14
+    VDD_S10
+    I2C_SCL_S26
+    I2C_SCL_S15
+    DATO_S30
+    LS_SCL_S9
+    C3_S5
+    VDD_S5
+    C2_S4
+    C1_S3
+    I2C_SDA_C3_S2
+    I2C_SDA_C2_S1
+    VDD_S33
+    LS_SDA_S32
+    S32
+    LS_SCL_S26
+    VDD_S22
+    LS_SDA_S21
+    S21
+    C3_S19
+    LS_SCL_S15
+    VDD_S11
+    LS_SDA_S10
+    S10
+    I2C_SCL_S27
+    I2C_SCL_S16
+    DATO_S31
+    I2C_SDA_C1_S30
+    RFFE_SDA_S28-36
+    DATO_S20
+    RFFE_SDA_S19-27
+    C3_S6
+    VDD_S6
+    C2_S5
+    C1_S4
+    I2C_SDA_C3_S3
+    I2C_SDA_C2_S2
+    DATO_S1
+    I2C_SDA_C1_S1
+    VDD_S34
+    LS_SDA_S33
+    S33
+    LS_SCL_S27
+    VDD_S23
+    LS_SDA_S22
+    S22
+    LS_SCL_S16
+    VDD_S12
+    LS_SDA_S11
+    S11
+    I2C_SCL_S28
+    I2C_SCL_S17
+    DATO_S32
+    I2C_SDA_C1_S31
+    I2C_SDA_C2_S30
+    DATO_S21
+    I2C_SDA_C1_S20
+    DATO_S10
+    C3_S7
+    VDD_S7
+    C2_S6
+    C1_S5
+    I2C_SDA_C3_S4
+    I2C_SDA_C2_S3
+    I2C_SDA_C1_S2
+    DATO_S2
+    VDD_IO
+    VDD_S35
+    LS_SDA_S34
+    S34
+    LS_SCL_S28
+    VDD_S24
+    LS_SDA_S23
+    S23
+    LS_SCL_S17
+    VDD_S13
+    LS_SDA_S12
+    S12
+    I2C_SCL_S29
+    I2C_SCL_S18
+    DATO_S33
+    I2C_SDA_C1_S32
+    I2C_SDA_C2_S31
+    I2C_SDA_C3_S30
+    RFFE_SCL_S28-36
+    DATO_S22
+    I2C_SDA_C1_S21
+    I2C_SDA_C2_S20
+    RFFE_SCL_S19-27
+    I2C_SDA_C1_S10
+    DATO_S11
+    C3_S8
+    VDD_S8
+    C2_S7
+    C1_S6
+    I2C_SDA_C3_S5
+    I2C_SDA_C2_S4
+    I2C_SDA_C1_S3
+    DATO_S3
+
+Reporting Globals
+    GND_POWER
+    GND_SIGNAL
+
+Reporting Net Names
+    N57678809
+    N57679879
+    I2C_SCL_S8
+    I2C_SCL_S6
+    I2C_SCL_S7
+    I2C_SCL_S9
+    N57669976
+    N57671034
+    N48121916
+    N57662212
+    BUF_EN
+    N48851041
+    N48850977
+    N48956664
+    N48900827
+    N48957840
+    N48842024
+    N48986502
+    N48901645
+    N40913405
+    C3_S7
+    N48882165
+    N48925013
+    N48882982
+    N48864073
+    LS_SCL_S8
+    N40905485
+    N48883109
+    N48900845
+    N48956667
+    C1_S7
+    SHIELD_1_S1
+    VDD_S7
+    LS_SDA_S4
+    N48986875
+    LS_SDA_S9
+    N48986648
+    N48901866
+    N48863598
+    N40807434
+    N48851061
+    N48901733
+    VDD_S2
+    N48863534
+    N48924564
+    N48841389
+    N48863554
+    C1_S6
+    N48925358
+    C2_S6
+    N48882080
+    N48924995
+    N48986309
+    N48882517
+    LS_SDA_S8
+    N48863566
+    N40904741
+    N48850853
+    N48882327
+    N48986943
+    S1
+    N41196581
+    VDD_S5
+    N48957197
+    N35939744
+    N48956990
+    N48863485
+    N48925460
+    N48956543
+    N48864302
+    N48924801
+    N48902122
+    N48841495
+    N48852184
+    N48841384
+    N48841552
+    C3_S9
+    N48986614
+    N48863769
+    N48850932
+    N48851789
+    LS_SDA_S5
+    LS_SDA_S2
+    N48851158
+    C3_S3
+    N48842301
+    S4
+    N23715633
+    N48882323
+    N48863419
+    LS_SDA_S3
+    N48851612
+    C3_S6
+    LS_SCL_S7
+    N48841918
+    N48864228
+    N23696642
+    N48900922
+    N48902108
+    N48986117
+    SHIELD_3_S5
+    N41872639
+    VDD_S6
+    N48842474
+    N48883238
+    LS_SCL_S4
+    N48925841
+    N48985906
+    N48924546
+    N48852096
+    N48863634
+    N48864464
+    N41872071
+    N48924991
+    S9
+    N48842057
+    C1_S8
+    N48841446
+    N48986289
+    LS_SCL_S9
+    SHIELD_3_S6
+    N48901481
+    N48863725
+    N48924596
+    N48882203
+    LS_SDA_S7
+    N48841714
+    N48957689
+    N48842462
+    N48841395
+    N48956593
+    N48883223
+    N48957241
+    N40919604
+    N48841257
+    C1_S5
+    N48901993
+    N48957337
+    N48901082
+    SHIELD_2_S2
+    N40807467
+    LS_SCL_S5
+    N48985846
+    N16777332
+    N48901272
+    N48985959
+    VDD_S3
+    N48925541
+    N48864384
+    SHIELD_3_S9
+    C2_S2
+    LS_SDA_S1
+    LS_SCL_S1
+    N48851302
+    N48986835
+    N40919083
+    N48882068
+    N48956559
+    C2_S8
+    C2_S4
+    N48864578
+    C3_S2
+    LS_SDA_S6
+    SHIELD_1_S2
+    N48851733
+    N48925823
+    N48882906
+    N48850975
+    N48956541
+    N48901973
+    N48925204
+    N48851095
+    N48882609
+    N41217779
+    N48863619
+    N48864344
+    N48900875
+    S3
+    N40918687
+    N48901429
+    N48986446
+    N48986101
+    N40946670
+    N48842624
+    SHIELD_2_S5
+    LS_SCL_S6
+    N48850997
+    S8
+    N48957636
+    N48852001
+    N48883042
+    N48985844
+    N48882070
+    N48986945
+    N40951593
+    N48841401
+    N48925156
+    C1_S2
+    N48850926
+    N48956802
+    N48863421
+    N48851657
+    N41185354
+    N48851206
+    N48842592
+    N48883181
+    N48883028
+    N48900951
+    N48956974
+    N48985858
+    N41205132
+    N40920505
+    N48850855
+    VDD_S4
+    C2_S5
+    N48924643
+    N48851811
+    N48864081
+    N48882734
+    N40807543
+    N48863873
+    N48987159
+    C1_S1
+    N48956640
+    N40904005
+    N48901547
+    N48863544
+    N48901928
+    N48924805
+    N48863885
+    N48863668
+    N48883302
+    C3_S1
+    N48987111
+    N48985965
+    N48957137
+    C2_S1
+    SHIELD_3_S2
+    N48986758
+    S2
+    SHIELD_3_S8
+    N48986885
+    N48900948
+    N48925655
+    N41135126
+    N48852068
+    LS_SCL_S3
+    N48924566
+    C1_S9
+    N48842522
+    SHIELD_1_S3
+    N48882784
+    VDD_S1
+    N48925653
+    N48864637
+    C2_S9
+    N41131519
+    N48842131
+    N48882535
+    N48842506
+    N48901286
+    N48985860
+    N48986374
+    N48925599
+    C3_S8
+    N48924677
+    N48864743
+    N48925262
+    S7
+    VDD_S9
+    N40920523
+    N48957451
+    SHIELD_3_S3
+    SHIELD_1_S7
+    N48901078
+    N48957710
+    N48851043
+    N48957309
+    N48900825
+    N48863617
+    SHIELD_3_S7
+    C1_S3
+    SHIELD_2_S3
+    N48841338
+    N48901276
+    N48841259
+    N42031105
+    N48852045
+    SHIELD_1_S5
+    N48924548
+    N48851516
+    N48883363
+    N48985967
+    N48863501
+    N48882838
+    N41874933
+    N48841429
+    N48851891
+    N41873782
+    N48987011
+    N48957638
+    N48882082
+    SHIELD_1_S6
+    N48957532
+    N48882205
+    N48851031
+    N48864605
+    N48883071
+    N48864773
+    N48925714
+    N48986998
+    N48841608
+    C2_S3
+    N35919733
+    N48957518
+    N48925704
+    N48851508
+    N48956798
+    N48957800
+    N48841468
+    SHIELD_2_S4
+    N41187536
+    N48900841
+    N48986279
+    SHIELD_2_S8
+    N48883349
+    N48901593
+    SHIELD_1_S4
+    N48925316
+    N48901930
+    S5
+    C1_S4
+    N48841708
+    N48852110
+    S6
+    N48957006
+    LS_SCL_S2
+    N48986823
+    N48901810
+    N48957775
+    N48842219
+    N48882678
+    N48882513
+    C3_S4
+    N48901802
+    VDD_S8
+    N48901371
+    N48882118
+    N48987074
+    N48842197
+    N48864167
+    N48851316
+    SHIELD_1_S8
+    N48841448
+    N48841930
+    SHIELD_2_S7
+    N48957505
+    SHIELD_1_S9
+    N48864673
+    N48883183
+    N48864669
+    SHIELD_2_S6
+    C2_S7
+    N48925524
+    N48957580
+    N48841332
+    N48925086
+    SHIELD_2_S9
+    N16773886
+    N48901787
+    N48956555
+    N48957065
+    N48842415
+    N48986810
+    C3_S5
+    N48902057
+    SHIELD_3_S4
+    N48850991
+    N48883127
+    N48986552
+    SHIELD_3_S1
+    N48924679
+    N48901872
+    N48925589
+    N48852220
+    N48925506
+    N48925776
+    N48957570
+    SHIELD_2_S1
+    I2C_SDA_C2_S7
+    I2C_SDA_C3_S7
+    I2C_SDA_C1_S8
+    I2C_SDA_C2_S8
+    I2C_SDA_C3_S8
+    I2C_SDA_C1_S9
+    I2C_SDA_C2_S9
+    I2C_SDA_C3_S9
+    DATO_S1
+    DATO_S2
+    DATO_S3
+    I2C_SDA_C2_S3
+    I2C_SDA_C1_S3
+    +5V
+    I2C_SDA_C3_S2
+    I2C_SDA_C2_S2
+    N50216786
+    N22957753
+    I2C_SDA_C1_S1
+    I2C_SDA_C1_S2
+    I2C_SCL_S1-9
+    RFFE_SDA_S1-9
+    I2C_SDA_C3_S5
+    I2C_SDA_C1_S6
+    RFFE_SCL_S1-9
+    N48125087
+    I2C_SDA_C2_S6
+    I2C_SDA_C3_S6
+    I2C_SDA_C2_S5
+    I2C_SDA_C1_S5
+    GND_POWER
+    I2C_SDA_C3_S4
+    I2C_SDA_C2_S4
+    I2C_SDA_C1_S4
+    I2C_SDA_C3_S3
+    DATO_S4
+    DATO_S5
+    DATO_S6
+    DATO_S7
+    N57258740
+    DATO_S8
+    DATO_S9
+    I2C_SDA_C3_S1
+    I2C_SDA_C2_S1
+    I2C_SDA_C1_S7
+    N49577021
+    N49220133
+    I2C_SCL_S10-18
+    N49490989
+    VDD_S17
+    N49577584
+    N49220208
+    N49577015
+    N49447082
+    N49514295
+    N49448039
+    I2C_SDA_C3_S17
+    N49490890
+    N49546422
+    C3_S13
+    N49469941
+    DATO_S10
+    N49220544
+    I2C_SDA_C3_S12
+    N49514957
+    N49152229
+    N49195630
+    S14
+    I2C_SDA_C2_S15
+    LS_SCL_S16
+    N49221090
+    C2_S16
+    I2C_SDA_C2_S17
+    N49152487
+    N49546414
+    I2C_SDA_C2_S16
+    N49469067
+    N49195073
+    N49151571
+    N49514719
+    I2C_SDA_C1_S13
+    N49546005
+    LS_SDA_S12
+    N49152738
+    N49490953
+    N49469029
+    N49195439
+    SHIELD_2_S16
+    N49220111
+    LS_SDA_S13
+    N49470336
+    SHIELD_1_S10
+    N49447046
+    N49491532
+    DATO_S12
+    N49514833
+    N49195674
+    LS_SCL_S11
+    N49578217
+    C3_S14
+    N49514195
+    N49546968
+    LS_SDA_S18
+    DATO_S18
+    N49152727
+    I2C_SDA_C1_S10
+    N49447960
+    I2C_SDA_C3_S10
+    C3_S17
+    N49492060
+    N49491339
+    VDD_S11
+    S17
+    N49469825
+    I2C_SDA_C1_S18
+    SHIELD_1_S16
+    N49545973
+    C1_S15
+    N49515149
+    LS_SDA_S10
+    C1_S14
+    N49152564
+    N49448307
+    N49469146
+    N49546723
+    VDD_S16
+    N49547238
+    SHIELD_3_S13
+    N49491337
+    LS_SCL_S13
+    DATO_S15
+    C1_S17
+    C2_S18
+    N49195231
+    N49514899
+    N49577530
+    N49221199
+    N49492151
+    N49577706
+    N49195246
+    I2C_SDA_C3_S11
+    N49152552
+    N49470056
+    N49221366
+    N49194974
+    C2_S11
+    N49469144
+    S10
+    N49196142
+    I2C_SDA_C3_S14
+    N49220755
+    S18
+    I2C_SDA_C1_S15
+    N49578006
+    N49152661
+    N49546481
+    C3_S11
+    N49220534
+    N49514451
+    N49578004
+    C2_S10
+    N49576981
+    N49195876
+    I2C_SDA_C2_S10
+    N49490900
+    DATO_S11
+    N49151589
+    N49447308
+    I2C_SDA_C2_S12
+    N49546036
+    N49447706
+    SHIELD_2_S18
+    N49470048
+    N49576934
+    N49195770
+    N49546946
+    N49546406
+    N49220099
+    N49514258
+    N49577892
+    N49447110
+    C3_S15
+    N49195965
+    DATO_S16
+    N49491656
+    N49194992
+    N49196059
+    N49221138
+    S12
+    RFFE_SCL_S10-18
+    N49447513
+    N49514640
+    N49515275
+    LS_SDA_S17
+    I2C_SDA_C1_S11
+    N49545989
+    LS_SCL_S10
+    N49490918
+    N49546048
+    N49577654
+    N49470294
+    N49514213
+    N49448134
+    N49152341
+    S11
+    N49220691
+    C3_S16
+    LS_SCL_S17
+    N49448132
+    N49194988
+    N49220214
+    N49221408
+    N49447497
+    N49546231
+    N49195742
+    N49469472
+    DATO_S14
+    N49447064
+    N49469289
+    N49491796
+    SHIELD_1_S15
+    N49546938
+    C1_S12
+    I2C_SDA_C3_S16
+    LS_SDA_S15
+    SHIELD_3_S14
+    SHIELD_2_S10
+    I2C_SDA_C1_S17
+    N49448079
+    N49514638
+    N49515103
+    N49491353
+    N49447642
+    N49221011
+    N49447848
+    N49448361
+    N49470201
+    N49152535
+    N49514191
+    SHIELD_3_S10
+    LS_SDA_S14
+    N49576968
+    SHIELD_1_S17
+    N49546865
+    N49195945
+    N49195554
+    N49152175
+    N49514229
+    LS_SCL_S12
+    N49547222
+    N49491970
+    C1_S16
+    DATO_S17
+    N49491877
+    LS_SCL_S14
+    N49470183
+    I2C_SDA_C3_S13
+    S13
+    VDD_S18
+    N49152803
+    N49448071
+    LS_SDA_S16
+    N49515456
+    C1_S10
+    S15
+    N49577029
+    N49195931
+    N49469051
+    N49546615
+    N49577462
+    N49490992
+    N49151635
+    N49220627
+    N49152004
+    I2C_SDA_C3_S18
+    N49546749
+    VDD_S12
+    N49491478
+    N49469679
+    VDD_S15
+    N49545955
+    SHIELD_1_S13
+    N49447050
+    C1_S13
+    S16
+    N49195498
+    I2C_SDA_C1_S14
+    SHIELD_2_S11
+    N49547039
+    N49194976
+    SHIELD_3_S18
+    N49492042
+    N49447481
+    I2C_SDA_C1_S16
+    N49152602
+    N49577392
+    N49547037
+    N49220805
+    N49515180
+    N49469100
+    N49546057
+    C3_S10
+    N49491166
+    I2C_SDA_C2_S11
+    N49195407
+    N49469625
+    N49515440
+    C3_S18
+    LS_SCL_S18
+    N49578100
+    N49577923
+    N49577206
+    N49469482
+    N49196208
+    N49514301
+    N49152018
+    N49469033
+    N49196005
+    N49220564
+    N49151587
+    N49220216
+    N49447750
+    N49577381
+    N49577846
+    N49221265
+    N49151569
+    I2C_SDA_C2_S13
+    N49514654
+    N49152888
+    N49546061
+    I2C_SDA_C2_S18
+    C1_S11
+    N49220899
+    N49221078
+    N49196233
+    N49152840
+    N49491144
+    N49470123
+    N49221252
+    N49515277
+    N49469557
+    I2C_SDA_C2_S14
+    SHIELD_3_S15
+    N49577379
+    SHIELD_3_S16
+    N49491968
+    N49546976
+    SHIELD_2_S14
+    C2_S13
+    I2C_SDA_C3_S15
+    N49491688
+    N49514787
+    N49152377
+    N49547260
+    LS_SCL_S15
+    N49492197
+    SHIELD_3_S17
+    N49469995
+    VDD_S13
+    N49577690
+    C2_S14
+    N49491915
+    N49220163
+    C3_S12
+    RFFE_SDA_S10-18
+    I2C_SDA_C1_S12
+    N49546563
+    N49195034
+    N49515494
+    N49469741
+    N49151694
+    N49220117
+    SHIELD_1_S11
+    N49196279
+    N49491420
+    N49514983
+    VDD_S14
+    VDD_S10
+    N49447156
+    N49195097
+    N49195989
+    N49546227
+    N49491907
+    N49514463
+    N49577903
+    C2_S12
+    N49448218
+    N49515214
+    C2_S15
+    SHIELD_1_S18
+    LS_SDA_S11
+    N49469795
+    N49221347
+    SHIELD_2_S15
+    DATO_S13
+    N49448019
+    N49220865
+    N49547127
+    N49151826
+    N49577009
+    N49490894
+    N49491594
+    N49447153
+    N49448009
+    N49547123
+    N49469301
+    N49515206
+    N49577202
+    C2_S17
+    N49469138
+    SHIELD_2_S12
+    C1_S18
+    N49577957
+    N49447322
+    N49152674
+    N49469500
+    N49221057
+    SHIELD_1_S12
+    N49515357
+    SHIELD_2_S13
+    N49195423
+    N49151842
+    N49448295
+    N49470121
+    N49515345
+    N49152034
+    N49196121
+    N49470026
+    N49152103
+    N49490996
+    N49578203
+    N49221122
+    N49220356
+    N49151696
+    N49514278
+    N49152614
+    SHIELD_3_S11
+    N49447812
+    N49447576
+    N49221190
+    N49577933
+    N49196074
+    N49470008
+    N49195077
+    N49546677
+    N49546916
+    N49576950
+    N49220371
+    N49470286
+    N49491861
+    SHIELD_2_S17
+    N49578191
+    N49448198
+    SHIELD_1_S14
+    N49491851
+    N49492135
+    SHIELD_3_S12
+    N49578096
+    N49151688
+    N49447160
+    N49515172
+    N49152281
+    I2C_SCL_S19-27
+    S19
+    N49820143
+    N49632272
+    N49821095
+    N49821192
+    N49685778
+    N49733361
+    I2C_SDA_C1_S19
+    I2C_SDA_C3_S20
+    N49790342
+    N49733387
+    N49889609
+    SHIELD_3_S27
+    S25
+    N49686443
+    N49734476
+    N49701132
+    N49820147
+    I2C_SDA_C2_S25
+    N49855828
+    LS_SDA_S19
+    LS_SCL_S25
+    N49765001
+    I2C_SDA_C1_S25
+    N49700944
+    N49686357
+    C2_S26
+    N49686641
+    S24
+    N49820562
+    N49765511
+    N49789639
+    RFFE_SDA_S19-27
+    I2C_SDA_C3_S19
+    N49820860
+    N49790611
+    N49889034
+    N49733381
+    N49789675
+    N49764410
+    N49733960
+    I2C_SDA_C2_S26
+    C3_S25
+    N49888742
+    N49790875
+    N49685784
+    N49686235
+    LS_SDA_S23
+    LS_SDA_S22
+    N49631524
+    DATO_S27
+    N49701390
+    SHIELD_2_S24
+    N49888529
+    N49700699
+    VDD_S21
+    VDD_S26
+    N49888469
+    N49790532
+    N49790582
+    N49632184
+    N49700685
+    I2C_SDA_C3_S27
+    N49889522
+    N49632434
+    I2C_SDA_C3_S24
+    N49857026
+    SHIELD_2_S26
+    C3_S26
+    SHIELD_3_S19
+    DATO_S23
+    LS_SDA_S27
+    N49889520
+    N49701893
+    VDD_S24
+    C2_S24
+    DATO_S20
+    I2C_SDA_C2_S22
+    DATO_S19
+    N49856781
+    N49685979
+    I2C_SDA_C1_S23
+    DATO_S21
+    N49733329
+    LS_SDA_S24
+    N49701116
+    N49685758
+    DATO_S24
+    N49888968
+    N49764623
+    N49856271
+    SHIELD_1_S26
+    N49764376
+    N49734543
+    N49888483
+    N49855864
+    N49631800
+    N49820704
+    N49632596
+    N49820161
+    I2C_SDA_C1_S20
+    N49764809
+    N49765417
+    N49889663
+    N49790791
+    C1_S26
+    N49632112
+    N49685750
+    LS_SCL_S20
+    I2C_SDA_C2_S21
+    C1_S27
+    VDD_S27
+    N49821022
+    N49764933
+    N49789908
+    N49686289
+    N49789671
+    N49888495
+    N49686954
+    RFFE_SCL_S19-27
+    N49789894
+    SHIELD_2_S22
+    N49820564
+    DATO_S25
+    N49686165
+    N49855844
+    N49631597
+    N49685975
+    N49765291
+    N49790787
+    LS_SDA_S21
+    I2C_SDA_C3_S21
+    N49686619
+    I2C_SDA_C2_S27
+    N49790278
+    I2C_SDA_C2_S23
+    SHIELD_3_S24
+    N49701842
+    N49734262
+    N49855872
+    C2_S25
+    N49734042
+    N49821190
+    N49631992
+    N49856537
+    N49888902
+    N49734273
+    N49856547
+    I2C_SDA_C2_S20
+    N49789679
+    N49856107
+    N49764414
+    N49734394
+    N49734271
+    C2_S23
+    N49857018
+    LS_SCL_S21
+    N49889653
+    N49888519
+    N49686155
+    N49855852
+    N49631609
+    N49856403
+    N49701838
+    I2C_SDA_C1_S24
+    C2_S22
+    SHIELD_3_S25
+    N49820157
+    N49632543
+    N49765071
+    I2C_SDA_C1_S26
+    N49686940
+    N49700753
+    N49765081
+    N49790216
+    N49820404
+    N49733768
+    N49686457
+    N49701416
+    N49631542
+    I2C_SDA_C3_S26
+    N49686670
+    N49856812
+    C3_S21
+    N49686986
+    N49733343
+    SHIELD_3_S20
+    I2C_SDA_C3_S25
+    N49764372
+    N49888920
+    N49856089
+    N49856285
+    SHIELD_1_S22
+    N49789651
+    N49820386
+    N49734032
+    N49820580
+    C3_S20
+    C1_S20
+    C1_S25
+    I2C_SDA_C2_S19
+    N49685722
+    N49701574
+    N49685738
+    C1_S21
+    N49632050
+    VDD_S22
+    N49790845
+    C2_S19
+    N49701909
+    N49700705
+    N49764867
+    LS_SCL_S26
+    N49700713
+    N49733592
+    N49889352
+    N49701627
+    N49700741
+    N49764362
+    SHIELD_1_S27
+    LS_SDA_S26
+    N49686770
+    S21
+    N49790156
+    N49820135
+    N49631601
+    N49734305
+    N49888473
+    N49820153
+    LS_SCL_S22
+    I2C_SDA_C2_S24
+    VDD_S23
+    I2C_SDA_C1_S27
+    SHIELD_2_S21
+    S22
+    C3_S22
+    SHIELD_3_S26
+    C2_S20
+    C1_S24
+    LS_SDA_S25
+    SHIELD_3_S22
+    N49821109
+    N49765570
+    LS_SDA_S20
+    N49733758
+    N49790086
+    LS_SCL_S27
+    N49632246
+    N49855836
+    N49889182
+    VDD_S19
+    N49700737
+    C2_S27
+    N49856881
+    N49701618
+    N49701616
+    N49734297
+    N49856794
+    N49631976
+    C1_S22
+    C3_S23
+    S26
+    N49733395
+    N49764436
+    N49790560
+    N49889683
+    N49821327
+    N49631557
+    N49632696
+    S27
+    N49856555
+    N49764791
+    N49733313
+    N49856790
+    N49857044
+    C2_S21
+    N49889110
+    LS_SCL_S19
+    VDD_S20
+    N49733353
+    N49856711
+    DATO_S26
+    N49632692
+    I2C_SDA_C3_S22
+    N49789713
+    N49855848
+    N49685707
+    N49889405
+    N49686153
+    N49734557
+    N49789695
+    N49820169
+    N49734056
+    N49701114
+    N49701941
+    C3_S19
+    N49631974
+    N49888479
+    N49889168
+    N49686702
+    N49888461
+    N49734222
+    N49765300
+    N49790378
+    SHIELD_2_S27
+    N49632779
+    N49733584
+    N49888724
+    N49701661
+    S20
+    LS_SCL_S23
+    N49820772
+    N49889400
+    I2C_SCL_S33
+    C3_S24
+    N49764422
+    I2C_SDA_C1_S22
+    SHIELD_1_S19
+    N49632286
+    N49789657
+    N49888900
+    LS_SCL_S24
+    VDD_S25
+    N49856475
+    N49889190
+    N49765251
+    DATO_S22
+    I2C_SCL_S30
+    N49686694
+    N49733898
+    I2C_SCL_S32
+    SHIELD_1_S25
+    I2C_SCL_S28
+    N49701744
+    SHIELD_2_S23
+    N49686427
+    I2C_SCL_S36
+    N49765582
+    I2C_SCL_S35
+    N49701653
+    C1_S23
+    N49631617
+    I2C_SCL_S29
+    SHIELD_1_S21
+    N49764386
+    I2C_SCL_S31
+    N49733838
+    I2C_SCL_S34
+    N49632769
+    N49790857
+    N49820201
+    SHIELD_3_S23
+    N49686871
+    N49821357
+    N49632485
+    N49821075
+    N49820852
+    N49701398
+    N49765354
+    N49686867
+    I2C_SDA_C1_S21
+    N49790076
+    SHIELD_2_S19
+    SHIELD_2_S25
+    N49790595
+    N49734589
+    N49733756
+    N49856883
+    N49765427
+    N49764793
+    I2C_SDA_C3_S23
+    N49734378
+    N49701324
+    N49821062
+    C3_S27
+    N49632476
+    N49686661
+    N49856269
+    N49889435
+    N49631796
+    N49790354
+    N49700667
+    N49765089
+    N49821287
+    N49632598
+    N49856761
+    N49821337
+    N49855890
+    C1_S19
+    N49631575
+    N49701250
+    N49821283
+    N49765336
+    N49889427
+    SHIELD_1_S23
+    N49790696
+    N49889423
+    SHIELD_3_S21
+    N49701742
+    N49820638
+    N49820838
+    SHIELD_1_S20
+    N49856329
+    N49632519
+    N49765614
+    N49856990
+    N49790074
+    N49686772
+    N49700940
+    N49765320
+    S23
+    N49632801
+    N49734495
+    N49790704
+    N49856986
+    N49632509
+    N49790621
+    N49765518
+    N49889613
+    SHIELD_1_S24
+    N49701190
+    N49821099
+    N49685792
+    SHIELD_2_S20
+    N49764633
+    N49932991
+    N50013821
+    N50036512
+    LS_SDA_S34
+    LS_SDA_S31
+    N50088905
+    C1_S36
+    N49996777
+    N49982488
+    N50014480
+    VDD
+    N50014977
+    LS_SDA_S36
+    N50158201
+    N50157005
+    N50036348
+    N50036494
+    N50125668
+    I2C_SDA_C2_S34
+    VDD_S28
+    N49933183
+    S30
+    C2_VSA
+    N49982344
+    N50063254
+    N50036083
+    N50158199
+    I2C_SCL_S28-36
+    LS_SCL_S36
+    N49982708
+    C1_VSA
+    N50125090
+    N50036037
+    SHIELD_1_S34
+    N50036081
+    I2C_SDA_C1_S31
+    N49996329
+    N50088367
+    LS_SCL_S34
+    I2C_SDA_C1_S29
+    VDD_S30
+    LS_SDA_S28
+    N50063252
+    S35
+    N50014771
+    N50036550
+    N50124898
+    S33
+    V_1.8V
+    N49983025
+    N50015009
+    C3_S35
+    N50125587
+    N49982118
+    DATO_S28
+    VDD_S34
+    N50088533
+    N50124604
+    RFFE_SDA_S28-36
+    N49932724
+    C2_S29
+    N50037217
+    I2C_SDA_C2_S33
+    N50014767
+    LS_SDA_S32
+    N50157998
+    N50125080
+    I2C_SDA_C2_S36
+    DATO_S32
+    N50157017
+    N49996274
+    N50124707
+    N50062355
+    N49982950
+    VDD_S33
+    C3_VSA
+    N50014763
+    VDD_S32
+    N50062749
+    N50124621
+    N49933876
+    C1_S30
+    N49996719
+    C2_S34
+    N50125528
+    I2C_SDA_C2_S32
+    N50063242
+    I2C_SDA_C3_S28
+    LS_SCL_S30
+    I2C_SDA_C1_S28
+    N49982061
+    N50088529
+    DATO_S34
+    I2C_SDA_C3_S36
+    C1_S29
+    N50062567
+    N49996701
+    N49933619
+    N49996306
+    SHIELD_2_S35
+    N50013871
+    SHIELD_3_S34
+    I2C_SDA_C1_S34
+    I2C_SDA_C3_S32
+    LS_SCL_S33
+    N49982792
+    S31
+    I2C_SDA_C2_S35
+    N49982624
+    VDD_S31
+    N50062505
+    N49982053
+    N50062049
+    N50062537
+    N50062725
+    SHIELD_2_S32
+    N50062062
+    N49997442
+    I2C_SDA_C3_S34
+    N49996258
+    N49933872
+    N49933377
+    N50088753
+    N50157071
+    N50015021
+    C1_S35
+    N50014876
+    N50062133
+    I2C_SDA_C3_S29
+    N50036762
+    SHIELD_1_S36
+    SHIELD_2_S31
+    N50125817
+    N50015019
+    N50037249
+    N50157504
+    N50062105
+    N50036982
+    SHIELD_2_S36
+    N49982310
+    VDD_S36
+    N50036987
+    N50157682
+    N50014758
+    N50087939
+    N50014516
+    N49932740
+    N50157928
+    N50062090
+    N50125122
+    I2C_SDA_C1_S30
+    C2_S30
+    I2C_SDA_C3_S35
+    N49933672
+    N50036978
+    N50157117
+    N49996989
+    SHIELD_3_S35
+    N50157966
+    DATO_S33
+    N49982077
+    N49997161
+    N49933449
+    SHIELD_1_S33
+    VDD_S35
+    LS_SDA_S30
+    N49983112
+    N50125761
+    I2C_SDA_C1_S36
+    C2_S32
+    C2_S33
+    N50013835
+    N49933930
+    N50157490
+    N49983245
+    I2C_SDA_C2_S31
+    N50124934
+    C3_S31
+    SHIELD_1_S32
+    N50089002
+    N50014116
+    N50087866
+    N50125382
+    N49933165
+    N50036035
+    N50036716
+    N50062949
+    SHIELD_2_S28
+    I2C_SDA_C1_S33
+    N49983005
+    N50157726
+    C3_S36
+    N49996921
+    N50088141
+    SHIELD_3_S36
+    N50014082
+    N49982107
+    N49996262
+    N49996999
+    N49933667
+    S36
+    N49932796
+    I2C_SDA_C3_S31
+    N50063004
+    N50088425
+    N50158078
+    N50062053
+    N50036059
+    N49983001
+    I2C_SDA_C2_S30
+    N49996260
+    SHIELD_3_S33
+    N50125178
+    N49932736
+    N50036746
+    N50037239
+    LS_SDA_S33
+    N50087900
+    LS_SDA_S35
+    SHIELD_1_S30
+    C2_S35
+    DATO_S36
+    N50013829
+    C1_S34
+    LS_SDA_S29
+    N50037237
+    N50157055
+    N49933435
+    I2C_SDA_C2_S28
+    N49996703
+    N49932750
+    DATO_S29
+    N50124602
+    N50036055
+    N50014797
+    N49933950
+    N50063000
+    N50125670
+    N49997214
+    N49997321
+    N50036496
+    N50124611
+    N50063268
+    N49996527
+    N49996284
+    N49932762
+    N50062996
+    N50088795
+    N49933920
+    I2C_SDA_C1_S35
+    SHIELD_2_S30
+    N49932746
+    N49983114
+    N50089054
+    N49933235
+    N50088549
+    N49932786
+    N50036065
+    N50036796
+    N50124660
+    N49982566
+    N50157488
+    N50157574
+    N49997209
+    N50088791
+    N50087852
+    N50063111
+    N50014258
+    LS_SCL_S31
+    N50089052
+    N50158076
+    LS_SCL_S32
+    N50013890
+    N49996835
+    N50062767
+    N49982500
+    N50088773
+    I2C_SDA_C2_S29
+    N50013841
+    LS_SCL_S28
+    N50125540
+    I2C_SDA_C3_S30
+    N50036612
+    C1_S31
+    N50037021
+    SHIELD_1_S31
+    N49997319
+    SHIELD_2_S33
+    N50062068
+    N50088907
+    N49933694
+    N50062991
+    N50088335
+    N50157013
+    N50087884
+    C3_S32
+    N49996280
+    N50125294
+    N50157788
+    N49933789
+    N49933167
+    C2_S36
+    N50087854
+    I2C_SDA_C3_S33
+    N50125791
+    N50157312
+    N49933690
+    N50014716
+    N50037007
+    S29
+    N50062625
+    N49982065
+    C3_S28
+    C2_S31
+    I2C_SDA_C1_S32
+    SHIELD_3_S31
+    N50158211
+    VDD_IO
+    N49933457
+    N50088309
+    N50014564
+    N50014973
+    N50062805
+    N50013825
+    SHIELD_1_S28
+    N50036934
+    N50125316
+    C3_S33
+    N50036124
+    N49997464
+    N50088319
+    N50088611
+    N49997205
+    N50089032
+    DATO_S35
+    DATO_S31
+    C1_S32
+    SHIELD_1_S35
+    N49982486
+    N50062339
+    N49997201
+    S32
+    N50124643
+    N50063030
+    C2_S28
+    N50013817
+    N50014390
+    SHIELD_1_S29
+    N50037098
+    C3_S30
+    N50014272
+    N50036320
+    N50087845
+    N50157007
+    N49997246
+    N50088828
+    S28
+    VDD_S29
+    N50157073
+    N49982057
+    N50014878
+    C1_S33
+    N50062521
+    S34
+    N50014260
+    C3_S34
+    N50089062
+    N50125298
+    SHIELD_3_S28
+    N50037195
+    N49982750
+    +3.3V
+    N49933787
+    N49996947
+    SHIELD_3_S32
+    N49933009
+    N50158179
+    LS_SCL_S35
+    N49983207
+    N49933301
+    N50158177
+    N50125078
+    N49996553
+    N50014334
+    SHIELD_3_S30
+    RFFE_SCL_S28-36
+    N49982768
+    N49982071
+    N50087902
+    SHIELD_2_S34
+    N50125554
+    SHIELD_3_S29
+    C3_S29
+    N49983203
+    N49997420
+    N50088799
+    LS_SCL_S29
+    N49982997
+    N50037096
+    C1_S28
+    N49983257
+    N50157338
+    VDD_IO_REG
+    N50014534
+    N50157538
+    N50157948
+    N50125550
+    N49983255
+    N49997416
+    N50088163
+    N50157708
+    N50063206
+    DATO_S30
+    N50125803
+    SHIELD_2_S29
+    N49933702
+    N50125801
+    N49982992
+    N50125546
+    N50157942
+    GND_SIGNAL
+    N49997462
+    N50063113
+    N50062102
+    N50157938
+    N50124657
+    N57664630
+    I2C_SCL_S23
+    I2C_SCL_S20
+    I2C_SCL_S27
+    I2C_SCL_S19
+    I2C_SCL_S24
+    I2C_SCL_S22
+    I2C_SCL_S26
+    I2C_SCL_S25
+    I2C_SCL_S21
+    I2C_SCL_S2
+    I2C_SCL_S5
+    I2C_SCL_S4
+    I2C_SCL_S3
+    N57628473
+    I2C_SCL_S1
+    I2C_SCL_S15
+    I2C_SCL_S11
+    I2C_SCL_S13
+    I2C_SCL_S17
+    I2C_SCL_S10
+    I2C_SCL_S16
+    I2C_SCL_S18
+    I2C_SCL_S12
+    I2C_SCL_S14
+    N57658771
+
+Checking Visible Unconnected Power Pins
+
+Checking Misleading Tap connection
+
+Check Bus width mismatch
