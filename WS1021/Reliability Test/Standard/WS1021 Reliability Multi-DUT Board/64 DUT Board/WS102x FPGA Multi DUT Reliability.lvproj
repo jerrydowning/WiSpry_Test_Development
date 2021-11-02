@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="WS102x FPGA Multi DUT Reliability Ver1.1.vi" Type="VI" URL="../WS102x FPGA Multi DUT Reliability Ver1.1.vi"/>
 		<Item Name="WS102x FPGA Multi DUT Reliability Ver1.5.vi" Type="VI" URL="../WS102x FPGA Multi DUT Reliability Ver1.5.vi"/>
+		<Item Name="WS102x FPGA Multi DUT Reliability Ver2.0.vi" Type="VI" URL="../WS102x FPGA Multi DUT Reliability Ver2.0.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -372,6 +373,48 @@
 				<Property Name="TgtF_productName" Type="Str">WS102x FPGA Multi DUT Reliability Ver1.5</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{C35AC517-2274-4010-8D67-D36F3E378907}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">WS102x FPGA Multi DUT Reliability Ver1.5.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+			<Item Name="WS102x FPGA Multi DUT Reliability Ver2.0" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{EAEEC79D-25EF-4A23-BD52-E266B2B8628F}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{A44326D7-7C00-4F64-91D3-5CC957F372B3}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{A594A664-8764-4E1D-B3F4-537A1AA083E0}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">WS102x FPGA Multi DUT Reliability Ver2.0</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/builds/WS102x FPGA Multi DUT Reliability Ver2.0</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{6D6F4747-F870-4882-B3CA-7D276D3BA2C1}</Property>
+				<Property Name="Bld_version.major" Type="Int">2</Property>
+				<Property Name="Destination[0].destName" Type="Str">WS102x FPGA Multi DUT Reliability Ver2.0.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/builds/WS102x FPGA Multi DUT Reliability Ver2.0/WS102x FPGA Multi DUT Reliability Ver2.0.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/builds/WS102x FPGA Multi DUT Reliability Ver2.0/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9D6F07A7-4C89-4935-98E1-D5DE31C8C32F}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/WS102x FPGA Multi DUT Reliability Ver1.5.vi</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/WS102x FPGA Multi DUT Reliability Ver2.0.vi</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[2].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="TgtF_companyName" Type="Str">WiSpry Inc</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">WS102x FPGA Multi DUT Reliability Ver2.0</Property>
+				<Property Name="TgtF_internalName" Type="Str">WS102x FPGA Multi DUT Reliability Ver2.0</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2021 WiSpry Inc</Property>
+				<Property Name="TgtF_productName" Type="Str">WS102x FPGA Multi DUT Reliability Ver2.0</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{D06EBEE5-028A-4809-9587-C2DDE3F8E32E}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">WS102x FPGA Multi DUT Reliability Ver2.0.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
