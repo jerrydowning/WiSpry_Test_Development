@@ -1,5 +1,5 @@
 [ProjectWindow_Data]
-ProjectExplorer.ClassicPosition[String] = "101,382,826,956"
+ProjectExplorer.ClassicPosition[String] = "81,579,806,1153"
 
 [AB_Cache_{047D0961-1593-4084-9328-E18556258401}]
 Cache_Path[Path] = "/C/Temp/AB_Cache_{047D0961-1593-4084-9328-E18556258401}.txt"
@@ -55,8 +55,18 @@ Cache_Path[Path] = "/C/Temp/AB_Cache_{EF1E2C7E-6AED-4E53-972B-A34D90645135}.txt"
 [AB_Cache_{C5F3BCF8-9FC7-4C04-BD88-37A46AF267B6}]
 Cache_Path[Path] = "/C/Temp/AB_Cache_{C5F3BCF8-9FC7-4C04-BD88-37A46AF267B6}.txt"
 
+[AB_Cache_{E24199E5-52B3-475D-B0A3-8E0F876463BD}]
+Cache_Path[Path] Line0001 = "/C/Users/jerry.downing/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{E24199E5-52B3-475D-B0A3-8E0F876463BD}.txt"
+
+[AB_Cache_{102FF9EC-6A1E-44AE-BA07-011E23E94E8F}]
+Cache_Path[Path] Line0001 = "/C/Users/jerry.downing/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{102FF9EC-6A1E-44AE-BA07-011E23E94E8F}.txt"
+
 [AB_Cache_{874ABAE9-408C-4C2D-B068-13145FA7F479}]
-Cache_Path[Path] = "/C/Temp/AB_Cache_{874ABAE9-408C-4C2D-B068-13145FA7F479}.txt"
+Cache_Path[Path] Line0001 = "/C/Users/jerry.downing/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{874ABAE9-408C-4C2D-B068-13145FA7F479}.txt"
 
 [AB_Cache_{484EDE2D-DFA7-4160-AE45-7D90D798905D}]
-Cache_Path[Path] = "/C/Temp/AB_Cache_{484EDE2D-DFA7-4160-AE45-7D90D798905D}.txt"
+Cache_Path[Path] Line0001 = "/C/Users/jerry.downing/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{484EDE2D-DFA7-4160-AE45-7D90D798905D}.txt"

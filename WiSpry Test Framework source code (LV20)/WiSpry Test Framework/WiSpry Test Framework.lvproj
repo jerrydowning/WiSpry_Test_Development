@@ -921,6 +921,7 @@
 			<Item Name="niDigitalLV_32.dll" Type="Document" URL="niDigitalLV_32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="null" Type="VI" URL="/&lt;resource&gt;/null"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="ISD Batch File" Type="EXE">
@@ -1384,7 +1385,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Sandbox/RF Bench/Installer/WiSpry Test Framework executable</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{484EDE2D-DFA7-4160-AE45-7D90D798905D}</Property>
-				<Property Name="Bld_version.build" Type="Int">131</Property>
+				<Property Name="Bld_version.build" Type="Int">133</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
@@ -1413,7 +1414,7 @@
 				<Property Name="Destination[5].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="DestinationCount" Type="Int">6</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/WiSpry Test Framework.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{3593C5DF-89B4-4F1B-8472-9F03ECB11957}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{AEA93253-3DAA-4431-9752-3A50713992BA}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.depDestIndex" Type="Int">0</Property>
@@ -1493,24 +1494,24 @@
 				<Property Name="Destination[0].type" Type="Str">userFolder</Property>
 				<Property Name="DestinationCount" Type="Int">1</Property>
 				<Property Name="DistPart[0].flavorID" Type="Str">_full_</Property>
-				<Property Name="DistPart[0].productID" Type="Str">{FF2FC67E-7962-419C-AD6F-F0158D364A3F}</Property>
-				<Property Name="DistPart[0].productName" Type="Str">NI-488.2 Runtime 18.5</Property>
+				<Property Name="DistPart[0].productID" Type="Str">{CB6C2533-4926-42B8-AC21-04BB9679F818}</Property>
+				<Property Name="DistPart[0].productName" Type="Str">NI-488.2 Runtime 20.0</Property>
 				<Property Name="DistPart[0].upgradeCode" Type="Str">{357F6618-C660-41A2-A185-5578CC876D1D}</Property>
 				<Property Name="DistPart[1].flavorID" Type="Str">_full_</Property>
-				<Property Name="DistPart[1].productID" Type="Str">{B0527EB7-53B2-4E95-9B0E-23B9B0237D21}</Property>
-				<Property Name="DistPart[1].productName" Type="Str">NI-DAQmx Runtime 18.5</Property>
+				<Property Name="DistPart[1].productID" Type="Str">{84EDD624-82A5-4A41-8D30-CA43D7560540}</Property>
+				<Property Name="DistPart[1].productName" Type="Str">NI-DAQmx Runtime 20.1</Property>
 				<Property Name="DistPart[1].upgradeCode" Type="Str">{923C9CD5-A0D8-4147-9A8D-998780E30763}</Property>
 				<Property Name="DistPart[2].flavorID" Type="Str">_full_</Property>
 				<Property Name="DistPart[2].productID" Type="Str">{C94B84A9-0F0D-4752-A511-90EB945F3F9C}</Property>
 				<Property Name="DistPart[2].productName" Type="Str">NI-Digital Pattern Driver Runtime 20.6 for NI-657x Devices</Property>
 				<Property Name="DistPart[2].upgradeCode" Type="Str">{571DB3E0-575E-4950-B5B1-8C1B80D45035}</Property>
 				<Property Name="DistPart[3].flavorID" Type="Str">_full_</Property>
-				<Property Name="DistPart[3].productID" Type="Str">{AD0D6322-6E99-4244-BF1E-F2FBB67C70B2}</Property>
-				<Property Name="DistPart[3].productName" Type="Str">NI-Serial Runtime 18.5</Property>
+				<Property Name="DistPart[3].productID" Type="Str">{F12C6F92-5B1C-4EAB-9364-96026CE1920D}</Property>
+				<Property Name="DistPart[3].productName" Type="Str">NI-Serial Runtime 20.0</Property>
 				<Property Name="DistPart[3].upgradeCode" Type="Str">{01D82F43-B48D-46FF-8601-FC4FAAE20F41}</Property>
 				<Property Name="DistPart[4].flavorID" Type="Str">_deployment_</Property>
-				<Property Name="DistPart[4].productID" Type="Str">{EDF95F83-017A-4425-8F94-63FF8533A5EA}</Property>
-				<Property Name="DistPart[4].productName" Type="Str">NI-VISA Runtime 18.5</Property>
+				<Property Name="DistPart[4].productID" Type="Str">{944CC86F-BDFB-4850-878C-370B9A7FF12C}</Property>
+				<Property Name="DistPart[4].productName" Type="Str">NI-VISA Runtime 20.0</Property>
 				<Property Name="DistPart[4].upgradeCode" Type="Str">{8627993A-3F66-483C-A562-0D3BA3F267B1}</Property>
 				<Property Name="DistPart[5].flavorID" Type="Str">DefaultFull</Property>
 				<Property Name="DistPart[5].productID" Type="Str">{6B440D80-3B0D-43B2-8A06-E2E939AA1006}</Property>
@@ -1521,22 +1522,37 @@
 				<Property Name="DistPart[5].SoftDep[1].exclude" Type="Bool">false</Property>
 				<Property Name="DistPart[5].SoftDep[1].productName" Type="Str">NI Deployment Framework 2020</Property>
 				<Property Name="DistPart[5].SoftDep[1].upgradeCode" Type="Str">{838942E4-B73C-492E-81A3-AA1E291FD0DC}</Property>
+				<Property Name="DistPart[5].SoftDep[10].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[5].SoftDep[10].productName" Type="Str">NI VC2015 Runtime</Property>
+				<Property Name="DistPart[5].SoftDep[10].upgradeCode" Type="Str">{D42E7BAE-6589-4570-B6A3-3E28889392E7}</Property>
+				<Property Name="DistPart[5].SoftDep[11].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[5].SoftDep[11].productName" Type="Str">NI TDM Streaming 19.0</Property>
+				<Property Name="DistPart[5].SoftDep[11].upgradeCode" Type="Str">{4CD11BE6-6BB7-4082-8A27-C13771BC309B}</Property>
 				<Property Name="DistPart[5].SoftDep[2].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[5].SoftDep[2].productName" Type="Str">NI Logos 20.0</Property>
-				<Property Name="DistPart[5].SoftDep[2].upgradeCode" Type="Str">{5E4A4CE3-4D06-11D4-8B22-006008C16337}</Property>
+				<Property Name="DistPart[5].SoftDep[2].productName" Type="Str">NI Error Reporting 2020</Property>
+				<Property Name="DistPart[5].SoftDep[2].upgradeCode" Type="Str">{42E818C6-2B08-4DE7-BD91-B0FD704C119A}</Property>
 				<Property Name="DistPart[5].SoftDep[3].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[5].SoftDep[3].productName" Type="Str">NI mDNS Responder 19.0</Property>
-				<Property Name="DistPart[5].SoftDep[3].upgradeCode" Type="Str">{9607874B-4BB3-42CB-B450-A2F5EF60BA3B}</Property>
+				<Property Name="DistPart[5].SoftDep[3].productName" Type="Str">NI LabVIEW Real-Time NBFifo 2020</Property>
+				<Property Name="DistPart[5].SoftDep[3].upgradeCode" Type="Str">{00D0B680-F876-4E42-A25F-52B65418C2A6}</Property>
 				<Property Name="DistPart[5].SoftDep[4].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[5].SoftDep[4].productName" Type="Str">Math Kernel Libraries 2017</Property>
-				<Property Name="DistPart[5].SoftDep[4].upgradeCode" Type="Str">{699C1AC5-2CF2-4745-9674-B19536EBA8A3}</Property>
+				<Property Name="DistPart[5].SoftDep[4].productName" Type="Str">NI LabVIEW Runtime 2020 SP1 Non-English Support.</Property>
+				<Property Name="DistPart[5].SoftDep[4].upgradeCode" Type="Str">{61FCC73D-8092-457D-8905-27C0060D88E1}</Property>
 				<Property Name="DistPart[5].SoftDep[5].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[5].SoftDep[5].productName" Type="Str">NI VC2015 Runtime</Property>
-				<Property Name="DistPart[5].SoftDep[5].upgradeCode" Type="Str">{D42E7BAE-6589-4570-B6A3-3E28889392E7}</Property>
+				<Property Name="DistPart[5].SoftDep[5].productName" Type="Str">NI Logos 20.0</Property>
+				<Property Name="DistPart[5].SoftDep[5].upgradeCode" Type="Str">{5E4A4CE3-4D06-11D4-8B22-006008C16337}</Property>
 				<Property Name="DistPart[5].SoftDep[6].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[5].SoftDep[6].productName" Type="Str">NI TDM Streaming 19.0</Property>
-				<Property Name="DistPart[5].SoftDep[6].upgradeCode" Type="Str">{4CD11BE6-6BB7-4082-8A27-C13771BC309B}</Property>
-				<Property Name="DistPart[5].SoftDepCount" Type="Int">7</Property>
+				<Property Name="DistPart[5].SoftDep[6].productName" Type="Str">NI LabVIEW Web Server 2020</Property>
+				<Property Name="DistPart[5].SoftDep[6].upgradeCode" Type="Str">{0960380B-EA86-4E0C-8B57-14CD8CCF2C15}</Property>
+				<Property Name="DistPart[5].SoftDep[7].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[5].SoftDep[7].productName" Type="Str">NI mDNS Responder 19.0</Property>
+				<Property Name="DistPart[5].SoftDep[7].upgradeCode" Type="Str">{9607874B-4BB3-42CB-B450-A2F5EF60BA3B}</Property>
+				<Property Name="DistPart[5].SoftDep[8].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[5].SoftDep[8].productName" Type="Str">Math Kernel Libraries 2017</Property>
+				<Property Name="DistPart[5].SoftDep[8].upgradeCode" Type="Str">{699C1AC5-2CF2-4745-9674-B19536EBA8A3}</Property>
+				<Property Name="DistPart[5].SoftDep[9].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[5].SoftDep[9].productName" Type="Str">Math Kernel Libraries 2020</Property>
+				<Property Name="DistPart[5].SoftDep[9].upgradeCode" Type="Str">{9872BBBA-FB96-42A4-80A2-9605AC5CBCF1}</Property>
+				<Property Name="DistPart[5].SoftDepCount" Type="Int">12</Property>
 				<Property Name="DistPart[5].upgradeCode" Type="Str">{D84FC73F-D1E0-4C05-A30C-DB882CD1ABD8}</Property>
 				<Property Name="DistPartCount" Type="Int">6</Property>
 				<Property Name="INST_author" Type="Str">Wispry Denmark ApS</Property>
@@ -1544,8 +1560,9 @@
 				<Property Name="INST_buildLocation" Type="Path">/C/Sandbox/RF Bench/Installer/WiSpry Test Framework installer</Property>
 				<Property Name="INST_buildSpecName" Type="Str">WiSpry Test Framework installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{6EAB895A-A483-41A5-B293-6B9974DD7810}</Property>
+				<Property Name="INST_installerName" Type="Str">setup.exe</Property>
 				<Property Name="INST_productName" Type="Str">WiSpry Test Framework</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.24</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.26</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">20018000</Property>
 				<Property Name="MSI_arpCompany" Type="Str">Wispry</Property>
@@ -1706,6 +1723,138 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{414DF5F3-F70E-4A40-97E7-83C7A3D347A2}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">AR amp.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Probe ESR Verification" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{10C3F58C-E738-4435-B04B-07B9CDF90B01}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{92DD43E9-82E4-4697-8B24-37CEB7B04CC3}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">0</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{E24199E5-52B3-475D-B0A3-8E0F876463BD}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Probe ESR Verification</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Probe ESR Verification</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{102FF9EC-6A1E-44AE-BA07-011E23E94E8F}</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Probe ESR Verification.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Probe ESR Verification/Probe ESR Verification.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Probe ESR Verification/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{3D48CBC9-2773-4B73-A6F3-FF404470E49D}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Tools/Probe_ESR_Verification.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Probe ESR Verification</Property>
+				<Property Name="TgtF_internalName" Type="Str">Probe ESR Verification</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2021 </Property>
+				<Property Name="TgtF_productName" Type="Str">Probe ESR Verification</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{21EF9F10-9FB7-4355-BA31-6B1652D74AFD}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Probe ESR Verification.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Probe ESR Verification Installer" Type="Installer">
+				<Property Name="Destination[0].name" Type="Str">WiSpry Test Framework</Property>
+				<Property Name="Destination[0].parent" Type="Str">{3912416A-D2E5-411B-AFEE-B63654D690C0}</Property>
+				<Property Name="Destination[0].tag" Type="Str">{F8CF7CD8-54C7-40F0-9B40-FEC1BBF91B95}</Property>
+				<Property Name="Destination[0].type" Type="Str">userFolder</Property>
+				<Property Name="DestinationCount" Type="Int">1</Property>
+				<Property Name="DistPart[0].flavorID" Type="Str">_full_</Property>
+				<Property Name="DistPart[0].productID" Type="Str">{CB6C2533-4926-42B8-AC21-04BB9679F818}</Property>
+				<Property Name="DistPart[0].productName" Type="Str">NI-488.2 Runtime 20.0</Property>
+				<Property Name="DistPart[0].upgradeCode" Type="Str">{357F6618-C660-41A2-A185-5578CC876D1D}</Property>
+				<Property Name="DistPart[1].flavorID" Type="Str">_full_</Property>
+				<Property Name="DistPart[1].productID" Type="Str">{F12C6F92-5B1C-4EAB-9364-96026CE1920D}</Property>
+				<Property Name="DistPart[1].productName" Type="Str">NI-Serial Runtime 20.0</Property>
+				<Property Name="DistPart[1].upgradeCode" Type="Str">{01D82F43-B48D-46FF-8601-FC4FAAE20F41}</Property>
+				<Property Name="DistPart[2].flavorID" Type="Str">_deployment_</Property>
+				<Property Name="DistPart[2].productID" Type="Str">{944CC86F-BDFB-4850-878C-370B9A7FF12C}</Property>
+				<Property Name="DistPart[2].productName" Type="Str">NI-VISA Runtime 20.0</Property>
+				<Property Name="DistPart[2].upgradeCode" Type="Str">{8627993A-3F66-483C-A562-0D3BA3F267B1}</Property>
+				<Property Name="DistPart[3].flavorID" Type="Str">DefaultFull</Property>
+				<Property Name="DistPart[3].productID" Type="Str">{6B440D80-3B0D-43B2-8A06-E2E939AA1006}</Property>
+				<Property Name="DistPart[3].productName" Type="Str">NI LabVIEW Runtime 2020 SP1</Property>
+				<Property Name="DistPart[3].SoftDep[0].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[0].productName" Type="Str">NI ActiveX Container</Property>
+				<Property Name="DistPart[3].SoftDep[0].upgradeCode" Type="Str">{1038A887-23E1-4289-B0BD-0C4B83C6BA21}</Property>
+				<Property Name="DistPart[3].SoftDep[1].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[1].productName" Type="Str">NI Deployment Framework 2020</Property>
+				<Property Name="DistPart[3].SoftDep[1].upgradeCode" Type="Str">{838942E4-B73C-492E-81A3-AA1E291FD0DC}</Property>
+				<Property Name="DistPart[3].SoftDep[10].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[10].productName" Type="Str">NI VC2015 Runtime</Property>
+				<Property Name="DistPart[3].SoftDep[10].upgradeCode" Type="Str">{D42E7BAE-6589-4570-B6A3-3E28889392E7}</Property>
+				<Property Name="DistPart[3].SoftDep[11].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[11].productName" Type="Str">NI TDM Streaming 19.0</Property>
+				<Property Name="DistPart[3].SoftDep[11].upgradeCode" Type="Str">{4CD11BE6-6BB7-4082-8A27-C13771BC309B}</Property>
+				<Property Name="DistPart[3].SoftDep[2].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[2].productName" Type="Str">NI Error Reporting 2020</Property>
+				<Property Name="DistPart[3].SoftDep[2].upgradeCode" Type="Str">{42E818C6-2B08-4DE7-BD91-B0FD704C119A}</Property>
+				<Property Name="DistPart[3].SoftDep[3].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[3].productName" Type="Str">NI LabVIEW Real-Time NBFifo 2020</Property>
+				<Property Name="DistPart[3].SoftDep[3].upgradeCode" Type="Str">{00D0B680-F876-4E42-A25F-52B65418C2A6}</Property>
+				<Property Name="DistPart[3].SoftDep[4].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[4].productName" Type="Str">NI LabVIEW Runtime 2020 SP1 Non-English Support.</Property>
+				<Property Name="DistPart[3].SoftDep[4].upgradeCode" Type="Str">{61FCC73D-8092-457D-8905-27C0060D88E1}</Property>
+				<Property Name="DistPart[3].SoftDep[5].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[5].productName" Type="Str">NI Logos 20.0</Property>
+				<Property Name="DistPart[3].SoftDep[5].upgradeCode" Type="Str">{5E4A4CE3-4D06-11D4-8B22-006008C16337}</Property>
+				<Property Name="DistPart[3].SoftDep[6].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[6].productName" Type="Str">NI LabVIEW Web Server 2020</Property>
+				<Property Name="DistPart[3].SoftDep[6].upgradeCode" Type="Str">{0960380B-EA86-4E0C-8B57-14CD8CCF2C15}</Property>
+				<Property Name="DistPart[3].SoftDep[7].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[7].productName" Type="Str">NI mDNS Responder 19.0</Property>
+				<Property Name="DistPart[3].SoftDep[7].upgradeCode" Type="Str">{9607874B-4BB3-42CB-B450-A2F5EF60BA3B}</Property>
+				<Property Name="DistPart[3].SoftDep[8].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[8].productName" Type="Str">Math Kernel Libraries 2017</Property>
+				<Property Name="DistPart[3].SoftDep[8].upgradeCode" Type="Str">{699C1AC5-2CF2-4745-9674-B19536EBA8A3}</Property>
+				<Property Name="DistPart[3].SoftDep[9].exclude" Type="Bool">false</Property>
+				<Property Name="DistPart[3].SoftDep[9].productName" Type="Str">Math Kernel Libraries 2020</Property>
+				<Property Name="DistPart[3].SoftDep[9].upgradeCode" Type="Str">{9872BBBA-FB96-42A4-80A2-9605AC5CBCF1}</Property>
+				<Property Name="DistPart[3].SoftDepCount" Type="Int">12</Property>
+				<Property Name="DistPart[3].upgradeCode" Type="Str">{D84FC73F-D1E0-4C05-A30C-DB882CD1ABD8}</Property>
+				<Property Name="DistPartCount" Type="Int">4</Property>
+				<Property Name="INST_buildLocation" Type="Path">../builds/Probe ESR Verification Installer/Probe ESR Verification Installer</Property>
+				<Property Name="INST_buildLocation.type" Type="Str">relativeToCommon</Property>
+				<Property Name="INST_buildSpecName" Type="Str">Probe ESR Verification Installer</Property>
+				<Property Name="INST_defaultDir" Type="Str">{F8CF7CD8-54C7-40F0-9B40-FEC1BBF91B95}</Property>
+				<Property Name="INST_installerName" Type="Str">Probe ESR Verification Installer.exe</Property>
+				<Property Name="INST_productName" Type="Str">Probe ESR Verification Installer</Property>
+				<Property Name="INST_productVersion" Type="Str">1.5.2</Property>
+				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
+				<Property Name="InstSpecVersion" Type="Str">20018000</Property>
+				<Property Name="MSI_arpCompany" Type="Str">WiSpry</Property>
+				<Property Name="MSI_autoselectDrivers" Type="Bool">true</Property>
+				<Property Name="MSI_distID" Type="Str">{A85BFC0E-28E9-469E-B001-B8151D190F60}</Property>
+				<Property Name="MSI_hideNonRuntimes" Type="Bool">true</Property>
+				<Property Name="MSI_osCheck" Type="Int">0</Property>
+				<Property Name="MSI_upgradeCode" Type="Str">{898C5474-616F-4009-B973-423803DA055A}</Property>
+				<Property Name="MSI_windowTitle" Type="Str">Probe ESR Verification Installer Version 1.0</Property>
+				<Property Name="RegDest[0].dirName" Type="Str">Software</Property>
+				<Property Name="RegDest[0].dirTag" Type="Str">{DDFAFC8B-E728-4AC8-96DE-B920EBB97A86}</Property>
+				<Property Name="RegDest[0].parentTag" Type="Str">2</Property>
+				<Property Name="RegDestCount" Type="Int">1</Property>
+				<Property Name="Source[0].dest" Type="Str">{F8CF7CD8-54C7-40F0-9B40-FEC1BBF91B95}</Property>
+				<Property Name="Source[0].File[0].dest" Type="Str">{F8CF7CD8-54C7-40F0-9B40-FEC1BBF91B95}</Property>
+				<Property Name="Source[0].File[0].name" Type="Str">Probe ESR Verification.exe</Property>
+				<Property Name="Source[0].File[0].Shortcut[0].destIndex" Type="Int">0</Property>
+				<Property Name="Source[0].File[0].Shortcut[0].name" Type="Str">Probe ESR Verification</Property>
+				<Property Name="Source[0].File[0].Shortcut[0].subDir" Type="Str">WiSpry Test Framework</Property>
+				<Property Name="Source[0].File[0].ShortcutCount" Type="Int">1</Property>
+				<Property Name="Source[0].File[0].tag" Type="Str">{21EF9F10-9FB7-4355-BA31-6B1652D74AFD}</Property>
+				<Property Name="Source[0].FileCount" Type="Int">1</Property>
+				<Property Name="Source[0].name" Type="Str">Probe ESR Verification</Property>
+				<Property Name="Source[0].tag" Type="Ref">/My Computer/Build Specifications/Probe ESR Verification</Property>
+				<Property Name="Source[0].type" Type="Str">EXE</Property>
+				<Property Name="SourceCount" Type="Int">1</Property>
 			</Item>
 		</Item>
 	</Item>
