@@ -10,11 +10,18 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Cycling_Cluster.ctl" Type="VI" URL="../Controls/Cycling_Cluster.ctl"/>
 		<Item Name="KE2400_Set_Volt_Meas_Current.vi" Type="VI" URL="../KE2400_Set_Volt_Meas_Current.vi"/>
 		<Item Name="KE2450_Meas_Resistance.vi" Type="VI" URL="../KE2450_Meas_Resistance.vi"/>
 		<Item Name="Keithley 24XX.lvlib" Type="Library" URL="../Instrument Drivers/keithley_24xx/Keithley 24XX/Keithley 24XX.lvlib"/>
 		<Item Name="MEMS_Resistance.vi" Type="VI" URL="../MEMS_Resistance.vi"/>
+		<Item Name="PS_Cycling.vi" Type="VI" URL="../PS_Cycling.vi"/>
+		<Item Name="Read_Cycling_File.vi" Type="VI" URL="../Utility Functions/Read_Cycling_File.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="instr.lib" Type="Folder">
+				<Item Name="RegistrationNumber.ctl" Type="VI" URL="/&lt;instrlib&gt;/SUSSProberInterface/SussProberInterface.llb/RegistrationNumber.ctl"/>
+				<Item Name="SussDoProberCmd.vi" Type="VI" URL="/&lt;instrlib&gt;/SUSSProberInterface/SussProberInterface.llb/SussDoProberCmd.vi"/>
+			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
@@ -70,8 +77,15 @@
 			<Item Name="Format_Table_Data.vi" Type="VI" URL="../Format_Table_Data.vi"/>
 			<Item Name="Inc_Dec_Builder.vi" Type="VI" URL="../Utility Functions/Inc_Dec_Builder.vi"/>
 			<Item Name="Keithley 2450.lvlib" Type="Library" URL="../Instrument Drivers/Keithley 2450/Keithley 2450.lvlib"/>
+			<Item Name="msgserve.dll" Type="Document" URL="msgserve.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Pull_Up_Down_Zero.vi" Type="VI" URL="../Pull_Up_Down_Zero.vi"/>
 			<Item Name="Set_Act_Voltage_Meas_Resistance.vi" Type="VI" URL="../Set_Act_Voltage_Meas_Resistance.vi"/>
+			<Item Name="SussRegisterProberApp.vi" Type="VI" URL="../Instrument Drivers/Suss Prober Control/SussRegisterProberApp.vi"/>
+			<Item Name="SussUnregisterProberApp.vi" Type="VI" URL="../Instrument Drivers/Suss Prober Control/SUSSProberInterface/SussProberInterface.llb/SussUnregisterProberApp.vi"/>
 			<Item Name="Table.ctl" Type="VI" URL="../Controls/Table.ctl"/>
+			<Item Name="Wafer_Map_Suss_Prober_Index.vi" Type="VI" URL="../Instrument Drivers/Suss Prober Control/Wafer_Map_Suss_Prober_Index.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
