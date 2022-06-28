@@ -19,8 +19,7 @@
 		<Item Name="Read_Cycling_File.vi" Type="VI" URL="../Utility Functions/Read_Cycling_File.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
-				<Item Name="RegistrationNumber.ctl" Type="VI" URL="/&lt;instrlib&gt;/SUSSProberInterface/SussProberInterface.llb/RegistrationNumber.ctl"/>
-				<Item Name="SussDoProberCmd.vi" Type="VI" URL="/&lt;instrlib&gt;/SUSSProberInterface/SussProberInterface.llb/SussDoProberCmd.vi"/>
+				<Item Name="Keithley 24XX.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Keithley 24XX/Keithley 24XX.lvlib"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -81,7 +80,9 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Pull_Up_Down_Zero.vi" Type="VI" URL="../Pull_Up_Down_Zero.vi"/>
+			<Item Name="RegistrationNumber.ctl" Type="VI" URL="../Instrument Drivers/Suss Prober Control/SUSSProberInterface/SussProberInterface.llb/RegistrationNumber.ctl"/>
 			<Item Name="Set_Act_Voltage_Meas_Resistance.vi" Type="VI" URL="../Set_Act_Voltage_Meas_Resistance.vi"/>
+			<Item Name="SussDoProberCmd.vi" Type="VI" URL="../Instrument Drivers/Suss Prober Control/SUSSProberInterface/SussProberInterface.llb/SussDoProberCmd.vi"/>
 			<Item Name="SussRegisterProberApp.vi" Type="VI" URL="../Instrument Drivers/Suss Prober Control/SussRegisterProberApp.vi"/>
 			<Item Name="SussUnregisterProberApp.vi" Type="VI" URL="../Instrument Drivers/Suss Prober Control/SUSSProberInterface/SussProberInterface.llb/SussUnregisterProberApp.vi"/>
 			<Item Name="Table.ctl" Type="VI" URL="../Controls/Table.ctl"/>

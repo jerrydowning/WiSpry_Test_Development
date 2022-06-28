@@ -1,0 +1,1 @@
+Changed name to keep the same appropriate by used WS VCAP MEMS Ver1.51 changed to WS VCAP Driver 1.49 

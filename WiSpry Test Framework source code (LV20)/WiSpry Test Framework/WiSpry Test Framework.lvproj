@@ -262,6 +262,9 @@
 			<Item Name="MCCW ACLR" Type="Folder">
 				<Item Name="MCCW ACLR.lvclass" Type="LVClass" URL="../Measurements/MCCW ACLR/MCCW ACLR.lvclass"/>
 			</Item>
+			<Item Name="OTP_LCR_Meas" Type="Folder">
+				<Item Name="OTP_LCR_Meas.lvclass" Type="LVClass" URL="../Measurements/OTP_LCR_Meas Folder/OTP_LCR_Meas.lvclass"/>
+			</Item>
 			<Item Name="Power Meter GUI" Type="Folder">
 				<Item Name="Power Meter GUI.lvclass" Type="LVClass" URL="../Measurements/Power Meter GUI/Power Meter GUI.lvclass"/>
 			</Item>
@@ -318,6 +321,7 @@
 		<Item Name="XML Handler.lvclass" Type="LVClass" URL="../XML Handler/XML Handler.lvclass"/>
 		<Item Name="WiSpry Test Framework.ico" Type="Document" URL="../WiSpry Test Framework.ico"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="OTP_Cluster.ctl" Type="VI" URL="../Measurements/Controls/OTP_Cluster.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Agilent 34401.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 34401/Agilent 34401.lvlib"/>
@@ -1855,6 +1859,56 @@
 				<Property Name="Source[0].tag" Type="Ref">/My Computer/Build Specifications/Probe ESR Verification</Property>
 				<Property Name="Source[0].type" Type="Str">EXE</Property>
 				<Property Name="SourceCount" Type="Int">1</Property>
+			</Item>
+			<Item Name="OTP-VNA_Extracted_File_Format" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{851F15CB-BC76-4BE6-9294-296443C51AC4}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{FD3E51C3-F6D6-44FE-9A39-549B154ECADA}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">0</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{037400A5-8267-4872-BFDB-44E0247CA5BF}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">OTP-VNA_Extracted_File_Format</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Sandbox/builds/NI_AB_PROJECTNAME/OTP-VNA_Extracted_File_Format</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{52F811A1-2728-4E57-814F-2219A1F63DB1}</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">OTP-VNA_Extracted_File_Format.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Sandbox/builds/NI_AB_PROJECTNAME/OTP-VNA_Extracted_File_Format/OTP-VNA_Extracted_File_Format.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Sandbox/builds/NI_AB_PROJECTNAME/OTP-VNA_Extracted_File_Format/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{985D21DF-533A-46B8-93B3-4A7167666B49}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Tools/OTP programming/OTP-VNA_Extracted_File_Format.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="Source[2].Container.applyProperties" Type="Bool">true</Property>
+				<Property Name="Source[2].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Devices</Property>
+				<Property Name="Source[2].properties[0].type" Type="Str">Run when opened</Property>
+				<Property Name="Source[2].properties[0].value" Type="Bool">false</Property>
+				<Property Name="Source[2].properties[1].type" Type="Str">Allow debugging</Property>
+				<Property Name="Source[2].properties[1].value" Type="Bool">true</Property>
+				<Property Name="Source[2].propertiesCount" Type="Int">2</Property>
+				<Property Name="Source[2].type" Type="Str">Container</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">OTP-VNA_Extracted_File_Format</Property>
+				<Property Name="TgtF_internalName" Type="Str">OTP-VNA_Extracted_File_Format</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2022 </Property>
+				<Property Name="TgtF_productName" Type="Str">OTP-VNA_Extracted_File_Format</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{D69BD4AF-AECE-4D1F-9A75-843FE5BA9B8A}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">OTP-VNA_Extracted_File_Format.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
 	</Item>
